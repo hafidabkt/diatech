@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:healthcare/constant/constant.dart';
 import 'package:healthcare/screens/login_screen.dart';
 import 'package:healthcare/screens/sign_up_screen.dart';
 import 'package:healthcare/widgets/navbar_roots.dart';
@@ -29,24 +30,24 @@ class WelcomeScreen extends StatelessWidget {
                 child: Text(
                   "SKIP",
                   style: TextStyle(
-                    color: Color(0xFF7165D6),
+                    color: Colors.black,
                     fontSize: 20,
                   ),
                 ),
               ),
             ),
             SizedBox(
-              height: 50,
+              height: 10,
             ),
             Padding(
-              padding: EdgeInsets.all(20),
-              child: Image.asset("images/doctors.png"),
+              padding: EdgeInsets.all(10),
+              child: Image.asset("images/two2.png"),
             ),
-            SizedBox(height: 50),
+            SizedBox(height: 5),
             Text(
-              "Dibeteslogo",
+              "Hello!",
               style: TextStyle(
-                color: Color(0xFF7165D6),
+                color: lightgreenshede1,
                 fontSize: 35,
                 fontWeight: FontWeight.bold,
                 letterSpacing: 1,
@@ -55,7 +56,7 @@ class WelcomeScreen extends StatelessWidget {
             ),
             SizedBox(height: 10),
             Text(
-              "Diabetes guid",
+              "Welcome to Your Diabetes Guide",
               style: TextStyle(
                 color: Colors.black54,
                 fontSize: 18,
@@ -67,14 +68,14 @@ class WelcomeScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Material(
-                  color: Color(0xFF7165D6),
-                  borderRadius: BorderRadius.circular(10),
+                  color: lightgreenshede1,
+                  borderRadius: BorderRadius.circular(40),
                   child: InkWell(
                     onTap: () {
                       Navigator.push(
                           context,
                           MaterialPageRoute(
-                            builder: (context) => loginScreen(),
+                            builder: (context) => LoginScreen(),
                           ));
                     },
                     child: Container(
@@ -91,26 +92,36 @@ class WelcomeScreen extends StatelessWidget {
                     ),
                   ),
                 ),
-                Material(
-                  color: Color(0xFF7165D6),
-                  borderRadius: BorderRadius.circular(10),
-                  child: InkWell(
-                    onTap: () {
-                      Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (context) => SignUpScreen(),
-                          ));
-                    },
-                    child: Container(
-                      padding:
-                          EdgeInsets.symmetric(vertical: 15, horizontal: 40),
-                      child: Text(
-                        "Sign Up",
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 22,
-                          fontWeight: FontWeight.bold,
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    borderRadius: BorderRadius.circular(40),
+                    border: Border.all(
+                      color: Colors.black, // Specify the border color here
+                      width: 1, // Specify the border width here
+                    ),
+                  ),
+                  child: Material(
+                    color: Colors.white,
+                    borderRadius: BorderRadius.circular(40),
+                    child: InkWell(
+                      onTap: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => SignUpScreen(),
+                            ));
+                      },
+                      child: Container(
+                        padding:
+                            EdgeInsets.symmetric(vertical: 15, horizontal: 40),
+                        child: Text(
+                          "Sign Up",
+                          style: TextStyle(
+                            color: Colors.black,
+                            fontSize: 22,
+                            fontWeight: FontWeight.bold,
+                          ),
                         ),
                       ),
                     ),

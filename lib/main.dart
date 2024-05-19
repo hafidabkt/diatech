@@ -1,9 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:healthcare/screens/welcome_screen.dart';
+import 'package:healthcare/screens/on_board.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 
-void main() {
-  runApp(const MyApp());
+import 'configure.dart';
+
+Future main() async {
+  await configureApp();
+  runApp(MyApp());
 }
+
+final GlobalKey<ScaffoldMessengerState> scaffoldMessengerKey = GlobalKey<ScaffoldMessengerState>();
+
+final supabase = Supabase.instance.client;
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key});
@@ -15,9 +23,8 @@ class MyApp extends StatelessWidget {
         fontFamily: 'YatraOne',
       ),
       debugShowCheckedModeBanner: false,
-      home: WelcomeScreen(),
+      scaffoldMessengerKey:scaffoldMessengerKey,
+      home: OnboardScreen(),
     );
   }
 }
-
-
