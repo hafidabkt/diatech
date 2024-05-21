@@ -41,6 +41,9 @@ dependencies:
   fl_chart: ^0.62.0 
   flutter_charts: ^0.5.2
   chart_sparkline: ^1.0.15+1
+  google_fonts: ^4.0.4
+  cached_network_image: ^3.0.0
+  supabase_flutter: ^2.5.2
 
 dev_dependencies:
   flutter_test:
