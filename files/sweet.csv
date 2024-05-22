@@ -1,0 +1,448 @@
+category,gi,gl,name
+sweet,23,6,"Chocolate, dark, Dove®"
+sweet,49,14,"Chocolate, plain"
+sweet,34,7,"Chocolate, plain with sucrose "
+sweet,45,13,"Chocolate, plain Dove®"
+sweet,42,13,"Chocolate, plain"
+sweet,23,3,"Chocolate candy, sugar free, artificially sweetened, Dove®"
+sweet,44,12,"Chocolate, dark with raisins, peanuts and jam"
+sweet,21,2,"Cocoavia™ Chocolate Covered Almonds, artificially sweetened"
+sweet,43,10,"Chocolate crinkles, containing coconut flour "
+sweet,11,1,"Fructose, 25 g portion, Sweeten Less"
+sweet,12,1,"Fructose, 50 g portion, Sweeten Less"
+sweet,23,2,"Fructose, 50 g portion "
+sweet,96,10,"Glucose, 50 g portion (dextrose)"
+sweet,96,10,"Glucose, 50 g portion"
+sweet,100,10,"Glucose, 50 g portion"
+sweet,102,10,"Glucose, 50 g portion, Glucodin™ glucose tablets"
+sweet,111,11,"Glucose, 50 g portion (dextrose)"
+sweet,103,10,"Glucose, 25 g portion"
+sweet,114,11,"Glucose, 100 g portion"
+sweet,76,8,"Glucose, 25 g portion (Glucodex), consumed 40 min before 3 g American dried ginseng (Panax quinquefolius L.)"
+sweet,62,6,"Glucose, 50 g portion, consumed with 14.5 g guar gum"
+sweet,86,9,"Glucose, 75 g portion, consumed with 4.24 g salt"
+sweet,85,9,"Glucose, 100 g portion, consumed with 20 g acacia gum"
+sweet,58,12,"Honey, Pure"
+sweet,35,6,"Honey, Yellow box (46% fructose)"
+sweet,44,9,"Honey, Stringy Bark (52% fructose) "
+sweet,46,8,"Honey, Red Gum (35% fructose) "
+sweet,48,7,"Honey, Iron Bark (34% fructose)"
+sweet,51,11,"Capilano Premium Honey, blend of eucalypt & floral honeys"
+sweet,52,9,"Honey, Yapunya (42 % fructose)"
+sweet,60,13,Leabrook Farms Yellow Box honey
+sweet,62,11,"Honey, Commercial Blend (38% fructose), WA blend"
+sweet,64,10,"Honey, Salvation Jane (32% fructose) "
+sweet,69,15,"Clover honey, ratio of fructose: glucose, 1.09"
+sweet,72,9,"Honey, Commercial Blend (28% fructose), NSW blend"
+sweet,73,16,"Buckwheat honey, ratio of fructose:glucose, 1.12"
+sweet,74,16,"Cotton honey, ratio of fructose:glucose, 1.03"
+sweet,74,16,"Honey, type not specified"
+sweet,74,16,"Tupelo honey, ratio of fructose:glucose, 1.54"
+sweet,87,18,"Honey, type not specified"
+sweet,58,6,"Sugar (Sucrose), 50 g portion"
+sweet,60,6,"Sugar (Sucrose), 50 g portion "
+sweet,60,6,"Sugar (Sucrose), 25 g portion"
+sweet,65,7,"Sugar (Sucrose), 50 g portion "
+sweet,65,7,"Sugar (Sucrose), 100 g portion"
+sweet,84,8,"Sugar (Sucrose), 50 g portion "
+sweet,70,25,"Pop Tarts™, Double Chocolate"
+sweet,42,6,"Cereal bar, cranberry flavor"
+sweet,33,4,"Cereal bar, hazelnut flavor "
+sweet,33,5,"Cereal bar, orange flavor "
+sweet,72,19,Crunchy Nut Cornflakes™ bar
+sweet,78,18,Fiber Plus™ bar
+sweet,56,11,"Fruity-Bix™ bar, wheat biscuit cereal with dried fruit and nuts with yoghurt coating"
+sweet,51,9,"Fruity-Bix™ bar, wild berry, wheat biscuit cereal and covered with yoghurt coating"
+sweet,53,11,Hi-Lite™ breakfast bar
+sweet,72,17,K-Time Just Right™ bar
+sweet,77,19,K-Time Strawberry Crunch™ bar
+sweet,50,9,"Muesli breakfast bar, gluten-free"
+sweet,21,3,"Omega bar, containing linseeds, sunflower kernels and nuts, gluten-free"
+sweet,63,15,Rice Bubble Treat™ bar
+sweet,57,14,Sustain™ bar
+sweet,47,8,"Apricot Temptation fruit cookies, 97% fat-free"
+sweet,69,12,Milk Arrowroot™ cookies
+sweet,71,23,Barquette Abricot cookies
+sweet,46,16,Bebe Dobre Rano Chocolate cookies
+sweet,46,16,Bebe Dobre Rano Chocolate cookies
+sweet,57,19,Bebe Dobre Rano Chocolate cookies
+sweet,48,16,Bebe Dobre Rano Coconut cookies
+sweet,51,17,Bebe Dobre Rano Four Cereals cookies
+sweet,51,17,Bebe Dobre Rano Honey and Hazelnuts cookies
+sweet,41,14,Bebe Dobre Rano Nuts and Honey cookies
+sweet,45,15,Bebe Dobre Rano Nuts and Honey cookies
+sweet,50,18,Bebe Dobre Rano with Milk cookies
+sweet,67,14,Bebe Jemne Susenky cookies
+sweet,51,17,Better Choice Multicereals cookies
+sweet,46,16,Better Choice Wholegrain cookies
+sweet,43,7,"Chocolate chip cookies, containing coconut flour "
+sweet,39,6,"Digestives, cookies"
+sweet,59,9,"Digestives, cookies "
+sweet,66,14,"Evergreen met Krenten, digestive cookies"
+sweet,28,6,"Gran'Dia Banana, Oats and Honey, digestive cookies"
+sweet,39,8,"Gran'Dia Chocolate with five cereals, digestive cookies"
+sweet,55,9,"Grany en-cas Abricot, digestive cookies"
+sweet,50,7,"Grany en-cas Fruits des bois, digestive cookies"
+sweet,62,12,"Grany Rush Apricot, digestive cookies"
+sweet,45,16,Györi Édes Jó reggelt! Müzlivel és gyümölccsel / Fruits and Muesli
+sweet,49,18,Györi Édes Jó reggelt! Müzlivel és gyümölccsel / Fruits and Muesli
+sweet,47,17,Györi Édes Jó reggelt! Müzlivel és gyümölccsel / Fruits and Muesli
+sweet,55,10,Highland Oatmeal™ cookies
+sweet,41,14,Jo Reggelt Fruits and Figs cookies
+sweet,44,15,Jubilee Nuts and Honey cookies
+sweet,45,15,Jubilee Nuts and Honey cookies
+sweet,45,16,Jyväshyvä Paussi Mysli and Fruits cookies
+sweet,49,18,Jyväshyvä Paussi Mysli and Fruits cookies
+sweet,47,17,Jyväshyvä Paussi Mysli and Fruits cookies
+sweet,55,19,Jyväshyvä Paussi Vanilla cookies
+sweet,39,13,Jyväshyvä Paussi Vanilla cookies
+sweet,46,16,Jyväshyvä Paussi Wholegrain cookies
+sweet,35,4,Leda Luxury gluten-free chocolate coated cookies
+sweet,42,14,LU P'tit Déjeuner Chocolat cookies 
+sweet,45,16,LU P'tit Déjeuner Miel et Pépites Chocolat cookies 
+sweet,49,18,LU P'tit Déjeuner Miel et Pépites Chocolat cookies 
+sweet,52,18,LU P'tit Déjeuner Miel et Pépites Chocolat cookies 
+sweet,51,18,"LU Petit Dejeuner, Chocolate, low in sugar cookies"
+sweet,46,16,LU Petit Dejeuner Chocolate & Cereals cookies
+sweet,58,20,LU Petit Dejeuner Chocolate & Cereals cookies
+sweet,37,13,"LU Petit Dejeuner Cereals & Chocolate Chips, low in sugar  cookies"
+sweet,55,19,"LU Petit Dejeuner Coconut, nuts and chocolate cookies"
+sweet,51,17,"LU Petit Dejeuner Coconut, nuts and chocolate cookies"
+sweet,45,16,LU Petit Dejeuner Fruits and Muesli cookies
+sweet,49,18,LU Petit Dejeuner Fruits and Muesli cookies
+sweet,47,17,LU Petit Dejeuner Fruits and Muesli cookies
+sweet,47,17,LU Petit Dejeuner Honey & Chocolate chips cookies
+sweet,46,16,LU Petit Dejeuner Honey & Chocolate chips cookies
+sweet,55,19,LU Petit Dejeuner Milk and Cereals cookies
+sweet,39,13,LU Petit Dejeuner Milk and Cereals cookies
+sweet,46,16,LU Petit Dejeuner Multicereals cookies
+sweet,41,14,LU Petit Dejeuner with Fruits and Figs cookies
+sweet,51,17,LU Petit Dejeuner with Prunes cookies
+sweet,32,6,"Macaroons, prepared with coconut flour"
+sweet,50,9,Maltmeal wafer
+sweet,79,15,Morning Coffee™ cookies
+sweet,57,13,Nutrigrain Fruits des bois cookies
+sweet,45,7,Oat biscuit cookies
+sweet,55,9,Oat biscuit cookies
+sweet,55,9,"Oat biscuit cookies, Nairn's™ Stem Ginger Oat Biscuit"
+sweet,54,9,Oatmeal cookies
+sweet,61,21,Oro cookies
+sweet,45,16,Petiki Go ! Fruits and Muesli cookies
+sweet,49,18,Petiki Go ! Fruits and Muesli cookies
+sweet,47,17,Petiki Go ! Fruits and Muesli cookies
+sweet,77,15,Petit brun extra cookies
+sweet,51,10,Petit LU Normand cookies
+sweet,48,9,Petit LU Roussillon cookies
+sweet,60,10,President's Choice® Blue Menu™ Cranberry Orange Cookies
+sweet,62,10,President's Choice® Blue Menu™ Crunchy Oat Cookies
+sweet,64,11,President's Choice® Blue Menu™ Ginger & Lemon Cookies
+sweet,73,13,Prince Energie+ cookies
+sweet,50,15,Prince fourré chocolat cookies
+sweet,53,16,Prince fourré chocolat cookies
+sweet,53,17,Prince gout chocolat cookies
+sweet,49,18,Prince Meganana Chocolate cookies
+sweet,52,18,Prince Petit Déj Cereals cookies
+sweet,51,18,Prince Petit Déj Cereals and Chocolate cookies
+sweet,45,16,Prince Petit Déjeuner Vanille cookies
+sweet,45,16,Principe megamanana vanilla cookies
+sweet,40,7,Rich Tea cookies
+sweet,55,10,Rich Tea cookies
+sweet,57,8,Sablé des Flandres cookies
+sweet,64,10,Shortbread cookies
+sweet,62,11,Shredded Wheatmeal™ cookies
+sweet,52,13,"Snack Right Fruit Pillow, Wild berry cookies"
+sweet,43,11,"Snack Right Fruit Pillow, Apple and blackberry cookies"
+sweet,45,11,"Snack Right Fruit Pillow, Spicy apple and sultana cookies"
+sweet,49,13,"Snack Right Fruit Slice, Mango and passionfruit cookies"
+sweet,50,13,"Snack Right Fruit Slice, Mixed berry cookies"
+sweet,48,12,"Snack Right Fruit Slice, Original Sultana (97% fat-free) cookies"
+sweet,45,11,"Snack Right Fruit Slice, Sultana with chocolate cookies"
+sweet,41,8,Thé cookies
+sweet,51,10,Véritable Petit Beurre cookies
+sweet,54,10,Véritable Petit Beurre cookies
+sweet,54,10,Véritable Petit Beurre cookies
+sweet,59,12,Vitasnella frollini cookies
+sweet,49,8,Choice grain crackers 
+sweet,87,18,"Corn Thins, puffed corn cakes, gluten-free crackers"
+sweet,65,11,Cream Cracker
+sweet,52,9,High-calcium cracker
+sweet,55,10,"Jatz™, plain salted craker biscuits"
+sweet,60,11,Lees Cabin Crackers
+sweet,65,10,President's Choice® Blue Menu™ Ancient Grains snack crackers
+sweet,65,10,President's Choice® Blue Menu™ Wheat & Onion snack crackers
+sweet,56,9,President's Choice® Blue Menu™ Wheat & Sesame snack crackers
+sweet,65,11,President's Choice® Blue Menu™ Wheat snack snack crackers
+sweet,81,15,Puffed Crispbread crackers
+sweet,82,17,"Puffed rice cakes, white"
+sweet,82,17,Rice cake 
+sweet,91,19,"Rice cakes, Calrose rice (low-amylose)"
+sweet,61,13,"Rice cakes, Doongara rice (high-amylose)"
+sweet,82,18,"Puffed rice cakes, caramel flavored"
+sweet,91,23,"Rice cracker, plain"
+sweet,64,10,Rye crackers with oats 
+sweet,57,9,Rye crackers with sesame
+sweet,69,11,Ryvita®
+sweet,46,6,Ryvita® Pumpkin Seeds & Oats
+sweet,48,7,Ryvita® Sunflower Seeds & Oats
+sweet,71,12,Kavli™ Norwegian Crispbread
+sweet,70,12,"Sao™, plain square crackers"
+sweet,63,11,Water cracker
+sweet,78,14,Water cracker
+sweet,53,8,Wholegrain water crackers with sesame seeds and rosemary
+sweet,36,6,Wholewheat water crackers with pumpkin and thyme
+sweet,50,7,"Wholewheat water sticks, crunchy, yeast extract flavored"
+sweet,10,2,"Ginger, candied, sucrose-free"
+sweet,44,8,"Chick Pea chips (Freedom Foods, Australia)"
+sweet,54,17,"Combos Snacks Cheddar Cheese Crackers (M&M/Mars, USA)"
+sweet,52,18,"Combos Snacks Cheddar Cheese Pretzels (M&M/Mars, USA)"
+sweet,42,11,"Corn chips, plain, salted (Doritos™ original,  Smith's Snack Food Co., Australia) (1998)"
+sweet,72,18,"Corn chips, plain, salted (Doritos™ original,  Smith's Snack Food Co., Australia) (1985)"
+sweet,64,13,"Flaxseed Tortilla chips, Sea Salt, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,64,13,"Flaxseed Tortilla chips, Spicy, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,91,35,"Japanese Tamari Rice & Corn Crisps, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada) "
+sweet,82,32,"Japanese Wasabi & Honey Rice & Corn Crisps, President's Choice® Blue Menu™  (Loblaw Brands Limited, Canada)"
+sweet,84,33,"Thai Curry Rice & Corn Crisps, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,15,4,"Fruit and nut mix (Finest, UK)"
+sweet,90,27,"Apple Fruit Bar, fat-free, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,34,5,Apricot and Almond bar 
+sweet,50,17,"Apricot filled fruit bar (pureed dried apricot filling in wholemeal pastry) (Mother Earth, New Zealand)"
+sweet,40,10,"Apricot & Yoghurt Healtheries Simple Bar, wheat and gluten-free (Aussie Bodies Pty. Ltd., Australia)"
+sweet,51,13,"Berry & Yoghurt Healtheries Simple Bar, wheat and gluten free (Aussie Bodies Pty. Ltd., Australia)"
+sweet,46,8,"Berrylicious Trim Bar (Aussie Bodies Pty. Ltd., Australia)"
+sweet,35,7,"Blackberry Sour Buzz dried fruit leather, Sunripe  School Straps (Windsor Farm Foods, Australia)"
+sweet,34,7,"Fruit & Yogurt Apple Cinnamon Chewy Bars (Soy), President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,70,21,"Fig Fruit bar, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,33,7,"Fruit & Yogurt Cranberry Blueberry Bars (Soy), President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,61,12,"Heinz Kidz™ Fruit Fingers, banana (HJ Heinz, Australia)"
+sweet,74,23,"Raspberry Fruit bar, fat-free, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,90,23,"Real Fruit Bars, strawberry (Uncle Toby's, Australia)"
+sweet,99,24,"Roll-Ups®, processed fruit snack (Uncle Toby's, Australia)"
+sweet,29,7,"Strawberry fruit leather (Stretch Island Fruit Company™, Washington, USA)"
+sweet,40,8,"Strawberry & Wildberry dried fruit leather, Sunripeschool straps (Windsor Farm Foods, Australia)"
+sweet,37,10,"Gelati, sucrose-free frozen dessert, chocolate flavor  (Alba Foods, Newtown, Australia)"
+sweet,39,11,"Gelati, sucrose-free frozen dessert, vanilla flavor (Alba Foods, Newtown, Australia)"
+sweet,44,8,"Chocollo™, low-fat chocolate flavored ice cream eaten with a plain cone (Wendy's Supa Sundaes Pty Ltd, Australia)"
+sweet,55,15,"Chocollo™, low-fat chocolate flavored ice cream eaten with a waffle cone (Wendy's Supa Sundaes Pty Ltd, Australia)"
+sweet,53,10,"Jelly, made from commercial jelly crystals,  Raspberry Razzle flavor (Aeroplane Jelly Company, West Ryde, Australia)"
+sweet,80,22,"Jelly beans, assorted colors (Allen's, Nestlé, Australia)"
+sweet,76,21,"Jelly beans, assorted colors (Savings, Grocery Holdings, Tooronga, Australia)"
+sweet,52,18,"Kudos Milk Chocolate Granola bar with M&M's Milk Chocolate Mini Baking Bits (M&M/Mars, USA)"
+sweet,62,20,"Kudos Whole-Grain bars, chocolate chip (M&M/Mars, Hackettstown, USA)"
+sweet,45,14,"Kudos Milk Chocolate Granola bars, Peanut Butter flavor (M&M/Mars, USA)"
+sweet,78,16,"Licorice, soft (Coles Supermarkets, Australia)"
+sweet,70,21,"Life Savers®, peppermint candy (Nestlé, Australia)"
+sweet,33,6,"M & M's®, peanut (Mars Confectionery, Australia)"
+sweet,62,25,"Mars Bar® (Mars Confectionery, Australia) "
+sweet,68,27,"Mars Bar® (M&M/Mars, USA) "
+sweet,62,15,"Marshmallows (Candy Lane, Australia)"
+sweet,62,26,"Milky Way® bar (M&M/Mars, USA)"
+sweet,45,15,"Milky Way® Lite bar (M&M/Mars, USA)"
+sweet,61,13,"Muesli bar, crunchy, containing dried apricot (Uncle Toby's, Australia)"
+sweet,32,4,"Nougat, Jijona (La Fama, Spain)"
+sweet,33,4,"Nutella®, chocolate hazelnut spread (Ferrero Australia, Milson's Point, NSW, Australia) (1997) "
+sweet,30,4,"Nutella®, chocolate hazelnut spread (Ferrero Australia, Australia) (2003)"
+sweet,25,3,"Nutella®, chocolate hazelnut spread (Ferrero Australia, Australia) (2007)"
+sweet,70,8,"Pirate's Booty, aged white cheddar extruded snack, made from corn and rice (Robert's American Gourmet, Sea Cliff, NY, USA)"
+sweet,72,9,"Microwave Popping Corn, butter flavor, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,58,7,"Microwave Popping Corn, natural flavor, President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,55,6,Popcorn 
+sweet,55,6,"Popcorn, plain, cooked in microwave oven (Green's Foods, Glendenning, NSW, Australia)"
+sweet,62,6,"Poppin Microwave Popcorn, butter flavor (Green's Foods, Australia)"
+sweet,67,7,"Poppin Lite Microwave Popcorn, butter flavor,  50% reduced fat (Green's Foods, Australia)"
+sweet,89,10,"Popcorn, plain, cooked in microwave oven (Uncle Toby's, Australia)"
+sweet,70,24,"Pop Tarts™, double choc (Kellogg's, Australia)"
+sweet,51,12,"Potato crisps, plain, salted "
+sweet,57,10,"Potato crisps, plain, salted (Arnott's, Australia)"
+sweet,60,12,Potato crisps 
+sweet,66,25,"President's Choice® Blue Menu™ Original and Tomato Basil Vegetable Sticks (Loblaw Brands Limited, Canada)"
+sweet,83,16,"Pretzels, oven-baked, traditional wheat flavor (Parker's, Smith's Snack Food Co., Australia)"
+sweet,84,20,"Pretzels, oven-baked, traditional wheat flavor, 97% fat free (Parker's, Smith's Snack Food Co., Australia)"
+sweet,77,19,Puffed rice squares 
+sweet,70,32,"Skittles® (Mars Confectionery, Australia)"
+sweet,78,16,"Chewy Chocolate Chip & Marshmallow Granola Bar,  President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,58,12,"Chewy Cranberry Apple Granola Bar,  President's Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,35,10,"Chocolate Healtheries Simple bar, wheat and gluten free (Aussie Bodies Pty. Ltd., Australia)"
+sweet,47,2,"Chocolate Raspberry Zing™ bar (Revival Soy®, Physicians Pharmaceuticals, Inc., USA)"
+sweet,63,17,"Cocoavia™ Chocolate Almond Snack bar (M&M/Mars, USA)"
+sweet,33,8,"Cocoavia™ Cripsy Chocolate Bar (M&M/Mars, USA)"
+sweet,33,5,"ExtendBar™ Apple Cinnamon Delight Bar  (ExtendBar, USA)"
+sweet,41,7,"ExtendBar™ Chocolate Delight Bar (ExtendBar, USA)"
+sweet,32,5,"ExtendBar™ Peanut Delight Bar (ExtendBar, USA)"
+sweet,46,9,"Granola bar, containing coconut flour "
+sweet,27,5,"Munch Peanut Butter bar (M&M/Mars, USA)"
+sweet,59,14,"Oat bar, made from oat flour and bran starch "
+sweet,52,13,"Peanut Butter Chocolate Pal™ bar (Revival Soy®,  Physicians Pharmaceuticals, Inc., USA)"
+sweet,72,26,"60% Whole Wheat Fig Fruit bar, President's  Choice® Blue Menu™ (Loblaw Brands Limited, Canada)"
+sweet,64,21,"Slimfast® Meal Options bar, rich chocolate brownie (SlimFast Foods Co, West Palm Beach, USA)"
+sweet,40,12,"Snack bar, Apple Cinnamon (Con Agra Inc., Omaha, NE, USA)"
+sweet,37,10,"Snack bar, Peanut Butter and Choc-Chip (Con Agra Inc., USA)"
+sweet,31,4,"Trim bar, Chocorama (Aussie Bodies Pty. Ltd., Australia)"
+sweet,25,3,"Trim Bar, Mocha flavor (Aussie Bodies Pty. Ltd., Australia)"
+sweet,41,15,"Snickers Bar® (Mars Confectionery, Australia)"
+sweet,43,15,"Snickers Bar® (M&M/Mars, USA)"
+sweet,68,23,"Snickers Bar® (M&M/Mars, USA)"
+sweet,19,2,"Apple Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,27,3,"Apricot Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,41,5,"Chocolate Orange Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,28,3,"Mango Coconut Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,25,3,"Plum + Fe Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,27,3,"Plum + Folic acid Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,28,3,"Raisin Almond Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,29,4,"Sanzashi Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,33,4,"Strawberry Soy Joy Bar (Otsuka Pharmaceutical Co Ltd, Tokyo, Japan)"
+sweet,87,23,"Sunshine™ soy protein chips, lightly salted (Revival Soy®,Physicians Pharmaceuticals, Inc., USA)"
+sweet,49,14,"Tropical fruit and nut mix (Finest, UK)"
+sweet,74,22,"Twisties™, cheese-flavored, extruded snack,  rice and corn (Smith's Snackfood Co., Australia)"
+sweet,44,17,"Twix® Cookie Bar, caramel (M&M/Mars, USA)"
+sweet,43,2,"Yummiees lollies (Allseps Pty. Ltd., Australia)"
+sweet,57,22,"Clif bar, Chocolate Brownie Energy bar (Clif Bar Inc., Berkeley, USA)"
+sweet,53,22,"Performance Chocolate Energy bar (Power Bar, USA)"
+sweet,58,24,"Power Bar®, chocolate (Powerfood Inc., Berkeley, USA)"
+sweet,53,22,"Power Bar®, chocolate (Powerfood Inc., Berkeley, USA)"
+sweet,39,10,"Ironman PR bar®, chocolate (PR Nutrition, San Diego, CA, USA)"
+sweet,11,2,"SmartZone Chocolate flavor, nutrition Bar (Hershey's Food Corporation, Hershey, PA, USA)"
+sweet,16,3,"SmartZone Chocolate flavor, nutrition Bar (Hershey's Food Corporation, Hershey, PA, USA) "
+sweet,15,3,"SmartZone Crunchy Blueberry flavor, nutrition Bar (Hershey's Food Corporation, Hershey, PA, USA) "
+sweet,23,4,"SmartZone Crunchy Chocolate Brownie flavor, nutrition Bar (Hershey's Food Corporation, Hershey, PA, USA) "
+sweet,16,3,"SmartZone Crunchy Chocolate Caramel flavor, nutrition Bar (Hershey's Food Corporation, Hershey, PA, USA)"
+sweet,14,3,"SmartZone Crunchy Chocolate Peanut Butter flavor, nutrition Bar (Hershey's Food Corporation, Hershey, PA, USA)"
+sweet,14,3,"SmartZone Crunchy Key Lime flavor, nutrition Bar (Hershey's Food Corporation, Hershey, PA, USA)"
+sweet,18,3,"SmartZone Peanut Butter flavor, nutrition Bar (Hershey's Food Corporation, Hershey, PA, USA) "
+sweet,36,9,"Chewy Chocolate Peanut flavor, Snickers® Marathon Energy Bar (M&M/Mars, USA)"
+sweet,50,14,"Cookies & Crème flavor, Snickers® Marathon Energy Bar (M&M/Mars, USA)"
+sweet,50,14,"Multi Grain Crunch flavor, Snickers® Marathon Energy Bar (M&M/Mars, USA) "
+sweet,34,8,"Peanut Butter flavor, Snickers® Marathon Energy Bar (M&M/Mars, USA) "
+sweet,20,2,"Chocolate Fudge Brownie flavor, Snickers® Marathon Low Carb Lifestyle Energy Bar (M&M/Mars, USA)"
+sweet,21,2,"Peanut Butter flavor, Snickers® Marathon Low Carb Lifestyle Energy Bar (M&M/Mars, USA) "
+sweet,49,5,"Dark Chocolate Crunch flavor, Snickers® Marathon Nutrition Bar  (M&M/Mars, USA)"
+sweet,41,4,"Honey & Roasted Almond flavor, Snickers® Marathon Nutrition Bar  (M&M/Mars, USA) "
+sweet,26,6,"Caramel Nut Rush flavor, Snickers® Marathon Protein Performance Bar  (M&M/Mars, USA)"
+sweet,32,6,"Chocolate Nut Burst flavor, Snickers® Marathon Protein Performance Bar  (M&M/Mars, USA)"
+sweet,29,6,"SoLo GI Berry Bliss Nutrition bar (New Era Nutrition Inc, Alberta, Canada)"
+sweet,28,6,"SoLo GI Chocolate Charger Nutrition bar (New Era Nutrition Inc, Alberta, Canada)"
+sweet,29,6,"SoLo GI Lemon Lift Nutrition bar (New Era Nutrition Inc, Alberta, Canada) "
+sweet,23,5,"SoLo GI Mint Mania Nutrition bar (New Era Nutrition Inc, Alberta, Canada)"
+sweet,27,5,"SoLo GI Peanut Power Nutrition bar (New Era Nutrition Inc, Alberta, Canada)"
+sweet,29,3,"SoLo GI Berry Bliss Snack bar (New Era Nutrition Inc, Alberta, Canada)"
+sweet,28,3,"SoLo GI Chocolate Charger Snack bar (New Era Nutrition Inc, Alberta, Canada)"
+sweet,29,3,"SoLo GI Lemon Lift Snack bar (New Era Nutrition Inc, Alberta, Canada) "
+sweet,23,2,"SoLo GI Mint Mania Snack bar (New Era Nutrition Inc, Alberta, Canada)"
+sweet,27,3,"SoLo GI Peanut Power Snack bar (New Era Nutrition Inc, Alberta, Canada)"
+sweet,49,22,"VO2 Max Chocolate Energy bar (M&M/Mars, USA)"
+sweet,44,8,"ZonePerfect Nutrition bar, Double Chocolate flavor (Abbott Laboratories, Abbott Park, USA)"
+sweet,11,1,"Organic Agave Cactus Nectar, light, 90% fructose (Western Commerce Corp., City of Industry, CA, USA)"
+sweet,10,1,"Organic Agave Cactus Nectar, light, 97% fructose (Western Commerce Corp., USA)"
+sweet,19,2,"Premium Agave nectar (Sweet Cactus Farms, USA)"
+sweet,63,13,Golden Syrup 
+sweet,46,5,"Lactose, 50 g portion "
+sweet,48,5,"Lactose, 25 g portion (BDH, Poole, UK)"
+sweet,105,11,"Maltose, 50 g portion "
+sweet,105,11,"Maltose, 50 g portion "
+sweet,68,15,"Maple flavored syrup (Cottee's Foods, Australia)"
+sweet,54,10,"Maple syrup, pure Canadian (Queen Foods,  Australia)"
+sweet,91,23,"Rice cracker, plain (Sakada, Japan)"
+sweet,85,17,"Juicy cereal bar (stavnata tycinka FIT, Usovsko, Czech Republic)"
+sweet,30,5,"Wheat flake bar, containing frutcose and extruded oat bran concentrate (6.5% ß-glucan) "
+sweet,63,13,"Arrowroot cookies (McCormicks's, Interbare Foods, Toronto, Canada)"
+sweet,62,11,"Arrowroot plus cookies (McCormicks's, Canada)"
+sweet,50,8,"Chocolate chip cookies, containing coconut flour "
+sweet,55,9,Digestives cookies
+sweet,62,9,"Digestives cookies, Peak Freans (Nabisco Ltd., Toronto, Canada)"
+sweet,58,10,"Digestives cookies, gluten-free (maize starch) (Nutricia Dietary Care Ltd., Redish, Stockport, UK)"
+sweet,77,13,"Golden Fruit cookies (Griffin's Foods Ltd., Auckland, New Zealand)"
+sweet,74,13,"Graham Wafers (Christie Brown & Co.,  Toronto, Canada)"
+sweet,57,8,"Highland Oatcakes cookies (Walker's Shortbread Ltd., Aberlour-on-Spey, Scotland)"
+sweet,33,6,"Macaroons, prepared with coconut flour "
+sweet,67,21,"Oro cookies (Saiwa, Italy)"
+sweet,77,14,"Vanilla Wafers (Christie Brown & Co., Canada)"
+sweet,67,9,"Breton wheat crackers (Dare Foods Ltd., Kitchener, Canada) "
+sweet,63,10,Rye crispbread 
+sweet,63,11,"Rye crispbread (Ryvita Company Ltd., UK)"
+sweet,59,9,"High-fiber rye crispbread (Ryvita Company Ltd., Poole, Dorset, UK)"
+sweet,74,12,"Premium Soda Crackers (Christie Brown & Co., Canada)"
+sweet,67,11,"Stoned Wheat Thins (Christie Brown & Co., Canada)"
+sweet,90,27,"Burger Rings™, barbeque-flavored (Smith's Snack Food Co, Chatswood, NSW, Australia)"
+sweet,54,12,"Chocolate crinkles, containing coconut flour "
+sweet,35,7,"Chocolate, milk, plain, low-sugar with maltitol "
+sweet,74,21,"Corn chips, Nachips™ (Old El Paso Foods Co., Canada)"
+sweet,50,10,"Granola bar, containing coconut flour"
+sweet,85,17,"Juicy cereal bar (Stavnata Tycinka FIT, Usovsko, Czech Republic)"
+sweet,101,49,"Clif bar, Cookies & Cream flavor energy bar (Clif Bar Inc, Berkeley, CA, USA)"
+sweet,74,24,"MET-Rx Bar, vanilla flavor energy bar (Met-Rx Substrate Technology Inc, Irvine, CA, USA)"
+sweet,83,37,"Power bar®, chocolate flavor energy bar (Powerfood Inc, Berkeley, CA, USA)"
+sweet,81,23,"PR-bar, Cookies 'N Cream flavor energy bar (Twin Laboratories Inc, Ronkonkowa, NY, USA)"
+sweet,20,2,"Fructose, 50 g portion"
+sweet,21,2,"Fructose, 50 g portion"
+sweet,24,2,"Fructose, 50 g portion (Sigma Chemical Company, St. Louis, MO, USA)"
+sweet,25,2,"Fructose, 25 g portion, fed with oats"
+sweet,85,9,"Glucose, 50 g portion (dextrose)"
+sweet,92,9,"Glucose, 25 g portion, fed with oats"
+sweet,93,9,"Glucose, 50 g portion"
+sweet,96,10,"Glucose, 50 g portion"
+sweet,78,8,"25 g glucose (Glucodex solution, Rougier Inc.,  Chambly, Quebec) consumed with 3 g American dried ginseng (Panax quinquefolius L.)"
+sweet,80,8,25 g glucose (Glucodex) consumed 40 min after 3 g American dried ginseng (Panax quinquefolius L.)
+sweet,103,10,"100 g Glucose consumed with 20 g cellulose (CSIR Biochemical Unit, New Delhi, India)"
+sweet,55,19,"30 g glucose consumed with 150 g grilled beefburger, 30 g cheese, 10 g butter (total meal contained 50 g carbohydrate)"
+sweet,57,20,"30 g glucose consumed with 150 g grilled beefburger, 30 g cheese, 10 g butter (total meal contained 50 g carbohydrate)"
+sweet,80,8,"25 g glucose consumed with 30 g oat bran flour (Natureal®  GI-flour, Finn Cereal, Vantaa, Finland)"
+sweet,32,7,Locust honey 
+sweet,43,4,"Lactose, 50 g portion (Sigma Chemical Company, USA)"
+sweet,48,5,"Lactose, 25 g portion, fed with oats"
+sweet,58,6,"Sucrose, 50 g portion (Sigma Chemical Company, USA)"
+sweet,59,6,"Sucrose, 50 g portion"
+sweet,60,6,"Sucrose, 50 g portion"
+sweet,64,6,"Sucrose, 25 g portion, fed with oats"
+sweet,82,8,"Sucrose, 30 g portion"
+sweet,110,11,"Sucrose, 25 g portion"
+sweet,2,0,"Isomalt (Sudzucker AG, Mannheim, Germany)"
+sweet,32,3,"Isomaltulose, Palatinose™ (Sudzucker AG, Mannheim, Germany)"
+sweet,-1,0,"Lactitol, 25 g lactitol"
+sweet,3,0,"25 g lactitol MC (Danisco sweeteners, Surrey, UK)"
+sweet,7,1,"25 g Litesse II, bulking agent with polydextrose and sorbitol (Danisco Sweeteners, UK)"
+sweet,4,0,"25 g Litesse III ultra, bulking agent with polydextrose and sorbitol (Danisco Sweeteners, UK)"
+sweet,47,5,"Lycasin® HBC, syrup containing 50-55% maltitol, 5-8% sorbitol and 35-40% hydrogenated oligo-scaccharides (lab 2212, Roquette, France)"
+sweet,25,2,"Lycasin® HBC, syrup containing 50-55% maltitol, 5-8% sorbitol and 35-40% hydrogenated oligo-scaccharides (lab 2212, Roquette, France)"
+sweet,26,3,"Maltitol, 50 g portion "
+sweet,30,3,"25 g Malbit CR (87% maltitol) (Cerestar, Vilvoorde, Belgium)"
+sweet,44,4,"25 g Maltidex 100 (> 72% maltitol) (Cerestar, Vilvoorde, Belgium)"
+sweet,46,5,Maltitol and Sucrose mixture (25 g Maltitol +  25 g Sucrose)
+sweet,73,7,"25 g Malbit CH (99% maltitol) (Cerestar, Vilvoorde, Belgium)"
+sweet,89,9,"25 g Maltidex 200 (50% maltitol) (Cerestar, Vilvoorde, Belgium)"
+sweet,3,0,"Tagatose sugar replacement, Gaio® (Arla Foods, Germany)"
+sweet,7,1,25 g Xylitol
+sweet,8,1,"25 g  Xylitol C (Danisco Sweeteners, UK)"
+sweet,34,1,"Nektar Sweet (Allynns, Inc., USA)"
+sweet,44,13,"Chocolate, white, Milky Bar®, artificially sweetened (Nestlé, Australia)"
+sweet,79,6,"Glucose, 46 g portion, consumed with 15 g apple and orange fiber extract (FITA, Chatswood, NSW, Australia) (total carbohydrate content of drink = 50 g)"
+sweet,57,6,"Glucose, 50 g portion, consumed with 14.5 g oat gum (78% oat ß-glucan)"
+sweet,54,18,"Green bean dessert (NISSIN brand, Nissin Foods Co. Ltd)"
+sweet,75,29,"Red bean dessert (NISSIN brand, Nissin Foods Co. Ltd)"
+sweet,47,16,"Chinese herbal jelly (Guang Jian Tang brand, Kwong Tai Agency Co. Ltd)"
+sweet,51,9,"Smith's Grain Waves Original Flavoured Wholegrain Chips (The Smith's Snackfood Company, Australia)"
+sweet,39,3,"Fruit Up sweetener (Rudolf Wild GmbH & Co, Germany)"
+sweet,50,2,LoGiCane low GI sugar
+sweet,48,4,Arnott's Kingston biscuits
+sweet,51,7,Green's Foods Butter Poppin Microwave Popcorn
+sweet,34,5,Lindt Lindor White Chocolate
+sweet,57,9,Pringles Original potato crisps
+sweet,98,8,Organic Rice Syrup/Rice Malt Syrup
+sweet,90,27,Karo Dark Corn Syrup
+sweet,44,5,SoyCarat Cheese flavor snack product
+sweet,41,5,SoyCarat Olive Oil & Garlic flavor snack product
+sweet,37,5,SoyCarat Nori & Natto flavor snack product
+sweet,54,3,Coconut sugar
+sweet,41,5,"Red Rock Deli Sweet Potato Crisps, Sea Salt "
+sweet,54,8,Gurun Emas Dates Syrup
+sweet,31,5,Protein Bar - Citrus Lemon
+sweet,29,1,"Chocolate Kouka Cacao 72% (Meiji Co., Ltd, Japan)"
+sweet,39,1,"Meiji Milk Chocolate (Meiji Co., Ltd, Japan)"
+sweet,18,0,"Chocolate Kouka Cacao 86% (Meiji Co., Ltd, Japan)"
+sweet,22,1,Herman Brot Protein Cheese Cracker
+sweet,29,2,Herman Brot Protein Olive Cracker
+sweet,31,2,Herman Brot Protein Mediterranean Cracker
+sweet,24,4,"Meiji Almond Chocolate (Meiji Co., Ltd, Japan)"
+sweet,30,4,"Meiji Macadamia Chocolate (Meiji Co., Ltd, Japan)"
+sweet,37,13,"Meiji Galbo Chocolate (Meiji Co., Ltd, Japan)"
+sweet,24,1,"Herman Brot Protein Cracker, Natural"
+sweet,26,2,"Herman Brot Protein Cracker, Spicy"
+sweet,27,2,"Herman Brot Protein Cracker, Zatar"

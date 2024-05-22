@@ -1,0 +1,1203 @@
+category,gi,gl,name
+food,35,15,"Barley, pearled, boiled 60 min "
+food,22,9,"Barley, pearled "
+food,22,9,Barley
+food,27,11,Barley 
+food,29,12,"Barley, pearled  "
+food,37,16,Barley (Hordeum vulgare)
+food,50,21,"Barley, cracked (Malthouth, Tunisia)"
+food,66,25,"Barley, rolled"
+food,20,8,"Barley kernels, high-amylose (hull-less) boiled in water for 25 min (kernel:water = 1:2.5)"
+food,22,9,"Barley kernels, waxy (hull-less), boiled in water for 25 min (kernel:water = 1:2.5)"
+food,25,10,"Barley kernels, boiled in water for 25 min (kernel:water = 1:2)"
+food,26,11,"Barley kernels, high-amylose (covered), boiled in water for 25 min (kernel:water = 1:2)"
+food,25,11,"Barley, pot, boiled in salted water 20 min"
+food,35,15,"Barley, pot, boiled"
+food,37,16,"Barley, pot, boiled 20 min"
+food,48,20,Barley (Hordeum vulgare) 
+food,59,8,"Maize/corn (Zea Mays), flour made into chapatti "
+food,68,9,Cornmeal porridge 
+food,68,9,"Cornmeal, boiled in salted water 2 min"
+food,69,8,Cornmeal + margarine
+food,45,20,Capellini pasta
+food,61,29,"Fusilli pasta twists, boiled 10 min in salted water"
+food,54,26,"Fusilli pasta twists, dry pasta, boiled in 10 min in unsalted water"
+food,51,23,"Fusilli pasta twists, tricolour, dry pasta, boiled 10 min in unsalted water "
+food,55,23,"Fusilli pasta twists, wholewheat, dry pasta, boiled 10 min in unsalted water"
+food,55,26,"Lasagne sheets, dry pasta, boiled in unsalted water for 10 min"
+food,53,23,"Lasagne, egg, dry pasta, boiled in unsalted water for 10 min "
+food,52,23,"Lasagne, egg, verdi, dry pasta, boiled in unsalted water for 10 min"
+food,58,29,"Wholemeal pasta, dark durum wheat, boiled 10 min in salted water"
+food,43,19,"Spirali pasta, durum wheat, white, boiled to al denté texture, Vetta™"
+food,46,20,"Tagliatelle, egg pasta, boiled in water for 7 min "
+food,35,16,"Vermicelli pasta, white, boiled, Vetta™"
+food,28,0,"Fusilli pasta twists, boiled 10 min in salted water, served with canned tuna "
+food,27,0,"Fusilli pasta twists, boiled 10 min in salted water, served with cheddar cheese"
+food,40,0,"Fusilli pasta twists, boiled 10 min in salted water, served with chilli con carne "
+food,68,31,"Corn pasta, gluten-free, Orgran brand"
+food,78,32,"Corn pasta, gluten-free, Orgran brand"
+food,28,14,"Proti pasta, protein-enriched, boiled in water"
+food,29,9,"Split pea and soya pasta shells, gluten-free, Orgran brand"
+food,23,10,"Pasta bake, tomato and mozzarella "
+food,42,20,"Spaghetti, white, boiled"
+food,45,22,"Spaghetti, white, boiled"
+food,76,30,"Long Grain rice, white, Golden Crown brand"
+food,89,36,"Medium Grain rice, white, Double Ram brand"
+food,75,30,"Medium Grain rice, white, Double Ram brand"
+food,89,36,"Medium Grain rice, white, SunRice brand (Product of Australia)"
+food,75,30,"Medium Grain rice, white, SunRice brand (Product of Australia)"
+food,76,30,"Premium Long Grain rice, white, SunRice brand (Product of Australia)"
+food,37,10,Slim Fast™ French Vanilla ready-to-drink shake
+food,39,5,"Aussie Bodies Trim Protein Shake, Chocolate flavoured beverage"
+food,41,5,"Aussie Bodies Trim Protein Shake, French Vanilla flavoured beverage"
+food,27,8,"Cinch™ Café Latte weight management beverage powder, prepared with skim milk"
+food,16,5,"Cinch™ Chocolate weight management beverage powder, prepared with skim milk"
+food,22,6,"Cinch™ Vanilla weight management beverage powder, prepared with skim milk"
+food,26,4,"Nutrimeal™, meal replacement drink, Dutch Chocolate"
+food,20,4,"Nutrimeal™, meal replacement drink, all flavours"
+food,30,4,"All-Bran™ breakfast cereal (high-fiber, extruded wheat bran cereal)"
+food,38,8,"All-Bran™ breakfast cereal (high-fiber, extruded wheat bran cereal)"
+food,51,12,"All-Bran™ breakfast cereal (high-fiber, extruded wheat bran cereal)"
+food,55,12,"All-Bran™ breakfast cereal (high-fiber, extruded wheat bran cereal)"
+food,41,7,All-Bran Fruit 'n Oats™ breakfast cereal
+food,33,4,All-Bran Soy 'n fiber™ breakfast cereal
+food,60,12,All-Bran Wheat Flakes™ breakfast cereal
+food,74,17,Balance™ breakfast cereal consumed with 150 mL semi-skimmed milk
+food,69,14,Barley flakes breakfast cereal
+food,46,15,"Barley flour porridge breakfast cereal, made from milled dehulled barley kernels (flour:water = 1:3) boiled for 2.5 min"
+food,39,11,"Barley flour porridge breakfast cereal, made from milled high-amylose (covered) barley kernels (flour:water = 1:3), boiled for 2.5 min"
+food,62,17,"Barley porridge breakfast cereal, made from steamed thin (0.5 mm) dehulled barley flakes"
+food,65,18,"Barley porridge breakfast cereal, made from steamed thick (1.0 mm) dehulled barley flakes"
+food,68,23,"Wholemeal barley flour porridge breakfast cereal (100% regular barley) (flour:water = 1:3), boiled 2.5 min"
+food,55,9,Wholemeal high-fiber barley flour porridge breakfast cereal (50% barley flour: 50% high-fiber barley flour)
+food,43,5,"Bran cereal, high fiber breakfast cereal"
+food,50,10,Branflakes breakfast cereal
+food,65,12,"Bran Flakes breakfast cereal, President's Choice® Blue Menu™"
+food,74,13,Bran Flakes™ breakfast cereal
+food,70,17,"Chocapic™ breakfast cereal, wheat-based flaked cereal"
+food,74,19,"Chocapic™ breakfast cereal, wheat-based flaked cereal"
+food,84,22,"Chocapic™ breakfast cereal, wheat-based flaked cereal"
+food,77,20,Coco Pops™ breakfast cereal (cocoa flavored puffed rice)
+food,77,20,Coco Pops™ breakfast cereal (cocoa flavored puffed rice)
+food,74,19,Cornflakes breakfast cereal
+food,77,19,Cornflakes™ breakfast cereal
+food,79,20,Cornflakes breakfast cereal
+food,80,21,Cornflakes™ breakfast cereal
+food,93,23,Cornflakes breakfast cereal consumed with 150 mL semi-skimmed milk
+food,72,17,"Cornflakes, Crunchy Nut™ breakfast cereal"
+food,80,21,Corn Pops™ breakfast cereal
+food,80,20,"Energy Mix™ breakfast cereal, wheat-based flaked cereal"
+food,56,6,"Fibre First Multi-Bran Cereal, President's Choice® Blue Menu™"
+food,69,18,Froot Loops™ breakfast cereal
+food,55,14,"Frosties™, sugar-coated cornflakes breakfast cereal"
+food,61,13,Fruit and Fibre™ breakfast cereal consumed with 150 mL semi-skimmed milk
+food,67,14,Fruit and Fibre breakfast cereal
+food,68,13,Fruit and Fibre breakfast cereal
+food,113,25,"Fruity-Bix™ breakfast cereal, berry"
+food,71,16,Golden Wheats™ breakfast cereal
+food,63,14,"Granola Clusters breakfast cereal, Original, low fat, President's Choice® Blue Menu™"
+food,70,15,"Granola Clusters breakfast cereal, Raisin & Almond, low fat, President's Choice® Blue Menu™"
+food,75,16,Grapenuts™ breakfast cereal
+food,37,5,Guardian™ breakfast cereal
+food,66,12,Healthwise™ for bowel health breakfast cereal
+food,52,9,"High-fiber cereal, breakfast cereal"
+food,54,10,"Hi-Lite™ breakfast cereal, containing 55% rolled barley grains"
+food,77,20,Honey Rice Bubbles™ breakfast cereal
+food,71,16,Honey Smacks™ breakfast cereal
+food,37,8,"Hot cereal, apple & cinnamon breakfast cereal"
+food,25,5,"Hot cereal, unflavored breakfast cereal"
+food,60,13,Just Right™ breakfast cereal
+food,62,14,Just Right Just Grains™ breakfast cereal
+food,65,16,Kashi Seven Whole Grain Puffs breakfast cereal
+food,48,10,Komplete™ breakfast cereal
+food,58,12,"Mini Wheats™, whole wheat breakfast cereal"
+food,59,12,"Mini Wheats, whole wheat breakfast cereal consumed with 150 mL semi-skimmed milk"
+food,72,15,"Mini Wheats™, whole wheat breakfast cereal, blackcurrant"
+food,55,11,"Alpen original muesli, made from steamed rolled oats with dried fruit and nuts"
+food,51,10,Bürgen® Fruit & Muesli
+food,51,9,Bürgen® Soy-Lin™ Muesli
+food,41,7,Bürgen® Rye Muesli
+food,64,12,Muesli
+food,66,16,Muesli
+food,86,18,Muesli
+food,67,14,"Muesli, fruit "
+food,59,11,"Muesli, fruit and nut "
+food,50,5,"Muesli, gluten-free with Psyllium"
+food,64,13,"Muesli, Light, mixed berry & apple flavor, Special K brand"
+food,54,10,"Muesli, Lite"
+food,49,6,"Muesli, Morning Sun Natural Apricot & Almond"
+food,40,8,"Muesli, Natural"
+food,57,11,"Muesli, Natural"
+food,62,11,"Muesli, Natural Style Original Swiss Formula"
+food,48,7,"Muesli, Naytura Fruit and Nut"
+food,52,9,"Muesli, Swiss Bircher"
+food,56,9,"Muesli, Swiss Formula"
+food,43,7,"Muesli, toasted"
+food,65,11,"Muesli, toasted, with nuts"
+food,56,10,"Muesli, wholewheat"
+food,45,4,"Muesli, yeast & wheat free"
+food,48,9,Vogel's Café Style Fibre-Rich Muesli
+food,66,10,Nutrigrain™
+food,84,2,"15 g Oat bran (containing 2 g ß-glucan), consumed  as a drink mixed with 41g glucose and water"
+food,58,2,"30 g Oat bran (containing 4 g ß-glucan), consumed  as a drink mixed with 41g glucose and water"
+food,64,2,"30 g Oat bran (containing 4 g ß-glucan), consumed  as a drink mixed with 41g glucose and water, frozen for 13 days and then thawed before consumption   "
+food,64,2,"45 g Oat bran (containing 6 g ß-glucan), consumed as a drink mixed with 41g glucose and water "
+food,77,13,Oat 'n Honey Bake™ breakfast cereal
+food,59,11,"Oats, rolled, uncooked"
+food,42,9,"Porridge, made from rolled oats and reduced fat milk"
+food,49,11,"Porridge, made from rolled oats cooked for 20 min "
+food,50,10,"Porridge oats, made from rolled oats"
+food,51,11,"Traditional porridge oats, made from rolled oats"
+food,52,17,"Porridge, made from steel-cut oats, cooked in water"
+food,55,13,"Porridge, made from rolled oats"
+food,57,11,Traditional Rolled Oats
+food,57,14,"Old-Fashioned Steel Cut Oats, President's Choice® Blue Menu™"
+food,58,12,"Porridge, made from rolled oats"
+food,58,12,"Porridge, made from rolled oats "
+food,63,19,"Porridge, made from rolled oats"
+food,63,18,"Porridge, organic made from rolled oats"
+food,63,20,"Porridge, made from rolled oats (Scottish)"
+food,55,14,"Multi grain instant oatmeal, Regular and Cinnamon & Spice, President's Choice® Blue Menu™"
+food,55,19,"Multigrain porridge, containing rolled oats, wheat, triticale, rye, barley and rice, cooked with water"
+food,74,24,"Wholemeal oat flour porridge (flour:water = 1:3), boiled 2.5 min "
+food,55,15,Oat porridge made from thick (1.0 mm) dehulled oat flakes
+food,76,19,"Oat porridge made from 0.5-0.6 mm thick flakes, cooked for 10 min"
+food,69,19,Oat porridge made from roasted thin (0.5 mm) dehulled oat flakes
+food,50,14,Oat porridge made from roasted thick (1.0 mm) 
+food,80,22,Oat porridge made from roasted and steamed thin (0.5 mm) dehulled oat flakes 
+food,53,14,Oat porridge made from steamed thick (1.0 mm) dehulled oat flakes 
+food,69,14,Instant porridge
+food,82,20,"Instant oat porridge, cooked in microwave with water"
+food,83,18,"Instant oatmeal porridge, made from packet "
+food,83,30,Instant oat cereal porridge prepared with water 
+food,80,17,Puffed Wheat breakfast cereal
+food,61,12,Raisin Bran™ breakfast cereal
+food,19,3,"Rice Bran breakfast cereal, extruded"
+food,81,21,Rice Bubbles™
+food,85,22,Rice Bubbles™ 
+food,92,24,Rice Bubbles™
+food,95,25,Rice Bubbles™
+food,67,13,Shredded Wheat breakfast cereal
+food,47,9,"Soy Crunch Multi-Grain Cereal, President's Choice® Blue Menu™"
+food,54,11,Special K™ breakfast cereal
+food,69,14,Special K™ breakfast cereal
+food,84,20,"Special K™ breakfast cereal, made from rice"
+food,60,12,"Soy Tasty™ breakfast cereal (flaked grains, soy nuts, dried fruit)"
+food,49,12,"Soytana™ breakfast cereal, Vogel's, soy and linseed bran crunch with sultanas (20.1 g fiber per 100 g)"
+food,64,12,Sultana Bran™
+food,73,14,Sultana Bran™
+food,41,5,"Ultra-bran™ breakfast cereal, Vogel's, soy and linseed extruded wheat bran cereal (30.2 g fiber per 100 g)"
+food,50,10,Vogel's Cluster Crunch Classic breakfast cereal
+food,43,8,"Vogel's Cluster Crunch, Honey Hazelnut breakfast cereal"
+food,43,8,Wild Oats Cluster Crunch Hazelnut Chocolate breakfast cereal
+food,72,18,Wheat-bites™ breakfast cereal
+food,61,12,Vita-Brits™ wheat biscuits (plain flaked wheat)
+food,68,13,Vita-Brits™ wheat biscuits (plain flaked wheat)
+food,69,12,Weet-Bix™ wheat biscuits (plain flaked wheat)
+food,69,12,Weet-Bix™ wheat biscuits (plain flaked wheat)
+food,75,16,Weetabix™ wheat biscuits (plain flaked wheat) 
+food,70,14,Whole wheat Goldies™ wheat biscuits (plain flaked wheat)
+food,72,14,"Wheat based cereal biscuit, wheat biscuits (plain flaked wheat)"
+food,68,14,"Good Start™, muesli wheat biscuits with additional ingredients"
+food,61,10,Hi-Bran Weet-Bix™ wheat biscuits with extra wheat bran
+food,57,9,Hi-Bran Weet-Bix™ with soy and linseed
+food,72,15,Honey Goldies™ wheat biscuits with additional ingredients
+food,70,14,"Lite-Bix™, wheat biscuits with additional ingredients, plain, no added sugar"
+food,57,11,Oat bran Weet-Bix™ wheat biscuits with additional ingredients
+food,65,13,Sultana Goldies™ wheat biscuits with additional ingredients
+food,76,15,Branflakes consumed with 150 mL semi-skimmed milk
+food,57,16,"Cereal flakes with fruit (30 g), consumed with 125 mL skim milk "
+food,58,16,"Cocoa Crunch cereal (30 g), consumed with 125 mL skim milk "
+food,65,16,"Cornflakes (Sainsbury's, UK) (30 g), consumed with 125 mL skim milk"
+food,54,16,"Honey Crunch cereal (30 g), consumed with 125 mL skim milk "
+food,43,11,"Hot oat cereal (30 g), berry flavor prepared with 125 mL skim milk"
+food,40,9,"Hot oat cereal (30 g), cocoa flavor prepared with 125 mL skim milk"
+food,47,12,"Hot oat cereal (30 g), fruit flavor prepared with 125 mL skim milk"
+food,47,12,"Hot oat cereal (30 g), honey flavor prepared with 125 mL skim milk"
+food,50,12,"Hot oat cereal (30 g), orchard fruit flavor prepared with 125 mL skim milk"
+food,47,11,Hot oat cereal (30 g) prepared with 125 mL skim milk
+food,40,9,Hot oat cereal (30 g) prepared with 125 mL skim milk
+food,39,7,"Muesli, gluten-free with 1.5% fat milk (125 mL)"
+food,60,11,"Muesli, Original, consumed with 125 mL semi-skimmed milk"
+food,60,12,"Muesli, Swiss, consumed with 150 mL semi-skimmed milk"
+food,49,9,"Muesli, Wheat free, consumed with 150 mL semi-skimmed milk"
+food,40,9,"Porridge, jumbo oats, consumed with 150 mL semi-skimmed milk"
+food,61,14,"Porridge, small oats, consumed with 150 mL semi-skimmed milk"
+food,59,14,"Precise™, with 125 mL semi-skimmed milk"
+food,80,20,"Rice Pops™, with 125 mL semi-skimmed milk"
+food,46,12,"Cereal biscuit (30 g), cocoa flavor wheat biscuits consumed with 125 mL skim milk"
+food,56,15,"Cereal biscuit (30 g), fruit flavor wheat biscuits consumed with 125 mL skim milk"
+food,52,14,"Cereal biscuit (30 g), honey flavor wheat biscuits consumed with 125 mL skim milk"
+food,47,12,"Cereal biscuit (30 g), wheat based biscuits consumed with 125 mL skim milk "
+food,45,13,"Buckwheat groats, hydrothermally treated, dehusked, boiled 12 min"
+food,65,9,"Couscous, rehydrated with hot water"
+food,62,22,Millet porridge 
+food,53,13,"Quinoa, cooked, refrigerated, reheated in microwave for 1.5 min"
+food,69,36,"Arborio, risotto white rice, boiled, SunRice brand"
+food,69,36,"Arborio, risotto white rice, boiled, SunRice brand"
+food,43,16,"White rice, boiled, type not specified"
+food,43,16,"White rice, boiled, type not specified"
+food,72,30,"White rice, boiled, type not specified"
+food,72,27,"White rice, boiled, type not specified, boiled in salted water"
+food,72,27,"White rice, boiled, type not specified, boiled in salted water"
+food,83,30,"White rice, boiled, type not specified"
+food,83,30,"White rice, boiled, type not specified"
+food,89,43,"White rice, boiled, type not specified, boiled 13 min "
+food,89,43,"White rice, boiled, type not specified, boiled 13 min "
+food,53,20,"White rice, type not specified, boiled in salted water, refrigerated 16-20 h, reheated"
+food,53,20,"White rice, type not specified, boiled in salted water, refrigerated 16-20 h, reheated"
+food,94,45,"White rice, type not specified, boiled 13 min, then baked 10 min "
+food,94,45,"White rice, type not specified, boiled 13 min, then baked 10 min "
+food,50,21,"Long grain rice, white, unconverted, boiled 15 min, Mahatma brand"
+food,50,21,"Long grain rice, white, unconverted, boiled 15 min, Mahatma brand"
+food,64,26,"Long grain rice, white, boiled 7 min, Star brand"
+food,69,28,"Long grain rice, boiled, Star Brand"
+food,68,25,"Long grain rice quick-cooking variety, parboiled 10 min cooking time"
+food,68,25,"Long grain rice quick-cooking variety, parboiled 10 min cooking time"
+food,75,28,"Long grain rice quick-cooking variety, parboiled, 20 min cooking time"
+food,75,28,"Long grain rice quick-cooking variety, parboiled, 20 min cooking time"
+food,52,19,"Long grain rice quick-cooking variety, white, pre-cooked, microwaved 2 min, Express Rice, plain"
+food,52,19,"Long grain rice quick-cooking variety, white, pre-cooked, microwaved 2 min, Express Rice, plain"
+food,76,44,"Long Grain White Rice in 90 Seconds, microwaved, SunRice brand"
+food,76,44,"Long Grain White Rice in 90 Seconds, microwaved, SunRice brand"
+food,75,29,"Medium grain white rice, quick-cooking variety, boiled 12 min, Sun Rice brand"
+food,75,29,"Medium grain white rice, quick-cooking variety, boiled 12 min, Sun Rice brand"
+food,69,23,Rice porridge 
+food,88,13,Rice porridge 
+food,88,13,Rice porridge 
+food,19,3,"Rice porridge, made from rice bran "
+food,42,14,"Rice porridge, made from black rice "
+food,65,21,"Rice porridge, made from Sticky rice "
+food,49,22,"American, easy-cook rice, consumed with 10 g margarine"
+food,86,37,"Broken rice, white, cooked in rice cooker"
+food,86,37,"Broken rice, white, cooked in rice cooker"
+food,48,20,"Brown Rice, Uncle Ben's® Ready Whole Grain (pouch)"
+food,48,20,"Brown Rice, Uncle Ben's® Ready Whole Grain (pouch)"
+food,45,18,"Brown & Wild rice, Uncle Ben's® Ready Whole Grain Medley™ (pouch)"
+food,45,18,"Brown & Wild rice, Uncle Ben's® Ready Whole Grain Medley™ (pouch)"
+food,46,18,"Chicken Flavored Brown Rice, Uncle Ben's® Ready Whole Grain (pouch)"
+food,46,18,"Chicken Flavored Brown Rice, Uncle Ben's® Ready Whole Grain (pouch)"
+food,98,31,"Glutinous rice, white, cooked in rice cooker"
+food,98,31,"Glutinous rice, white, cooked in rice cooker"
+food,79,37,"Jasmine Fragrant rice, white, SunRice brand (Product of Australia)"
+food,79,37,"Jasmine Fragrant rice, white, SunRice brand (Product of Australia)"
+food,109,46,"Jasmine rice, white long grain, cooked in rice cooker"
+food,49,21,"Long Grain and Wild, Jasmine rice, Uncle Ben's® Ready Rice (pouch)"
+food,49,21,"Long Grain and Wild, Jasmine rice, Uncle Ben's® Ready Rice (pouch)"
+food,54,17,Moolgiri white rice
+food,48,22,"Original Long Grain, Jasmine rice, Uncle Ben's® Ready Rice (pouch)"
+food,48,22,"Original Long Grain, Jasmine rice, Uncle Ben's® Ready Rice (pouch)"
+food,59,46,"Red Raw rice, Sri Lankan, cooked in rice cooker"
+food,51,21,"Roasted Chicken Flavored, Uncle Ben's® Ready Rice (pouch)"
+food,48,18,"Santa Fe, Uncle Ben's® Ready Whole Grain Medley™ (pouch)"
+food,51,22,"Spanish Style, Uncle Ben's® Ready Rice (pouch)"
+food,48,17,"Vegetable Harvest, Uncle Ben's® Ready Whole Grain Medley™ (pouch)"
+food,83,36,"Calrose, white low-amylose rice, medium grain, boiled"
+food,87,37,"Sungold, Pelde, white low-amylose rice, parboiled"
+food,88,38,Waxy (0-2% amylose) white low-amylose rice
+food,93,40,"Pelde, white low-amylose rice"
+food,48,19,"Doongara, white high-amylose rice, cooked in rice cooker, SunRice CleverRice™ brand"
+food,48,19,"Doongara, white high-amylose rice, cooked in rice cooker, SunRice CleverRice™ brand"
+food,50,20,"Doongara, white high-amylose rice, SunRice CleverRice™ brand"
+food,54,21,"Doongara, white high-amylose rice, SunRice CleverRice™ brand (Product of Australia)"
+food,54,21,"Doongara, white high-amylose rice, SunRice CleverRice™ brand"
+food,64,25,"Doongara, white high-amylose rice, SunRice CleverRice™ brand"
+food,51,20,"Doongara, white high-amylose rice, SunRice CleverRice™ brand (Product of Australia)"
+food,43,18,"Basmati, white rice, boiled, with 10 g margarine"
+food,52,15,"Basmati, white rice, boiled 12 min"
+food,57,23,"Basmati, white rice, organic, boiled 10 min "
+food,57,23,"Basmati, white rice, organic, boiled 10 min "
+food,58,22,"Basmati, white rice, boiled, Mahatma brand"
+food,65,25,"Basmati, white rice, boiled, SunRice brand (Product of Pakistan)"
+food,59,23,"Basmati, white rice, boiled, SunRice brand (Product of Pakistan)"
+food,69,28,"Basmati, white rice, boiled 8 min "
+food,67,28,"Basmati, easy cook white rice, boiled 9 min "
+food,68,28,"Basmati, easy-cook white rice, consumed with 10 g margarine"
+food,57,24,"Precooked basmati rice in pouch, white, reheated in microwave, Uncle Ben's Express®"
+food,57,24,"Precooked basmati rice in pouch, white, reheated in microwave, Uncle Ben's Express®"
+food,60,23,"Quick cooking white basmati, cooked 10 min, Uncle Ben's® Superior"
+food,60,23,"Quick cooking white basmati, cooked 10 min, Uncle Ben's® Superior"
+food,85,33,"Short Grain Sushi rice, white, SunRice brand (Product of Australia)"
+food,62,26,"Japonica, short-grain brown rice "
+food,62,26,"Japonica, short-grain brown rice "
+food,54,22,"Japonica short-grain brown rice, pre-germinated"
+food,57,23,"Japonica short-grain brown rice,  pre-germinated "
+food,48,18,"Koshikari (Japonica), white rice, short-grain,  boiled 15 min, then steamed 10 min "
+food,48,18,"Koshikari (Japonica), white rice, short-grain,  boiled 15 min, then steamed 10 min "
+food,76,35,"Japonica, short-grain white rice "
+food,76,35,"Japonica, short-grain white rice "
+food,75,34,"Japonica, short-grain white rice "
+food,64,27,Japonica white rice and pre-germinated Japonica brown rice (ratio 1:2)
+food,67,30,Japonica white rice and pre-germinated Japonica brown rice (ratio 2:1) 
+food,73,28,"Koshihikari rice, white, SunRice brand (Product of Australia)"
+food,61,23,"Koshihikari rice, white, SunRice brand (Product of Australia)"
+food,68,27,"Japonica rice with 3 g Sunfibre (Cyamoposis tetragonolobus) (soluble fiber), viscosity 1 (Taiyo Kagaku Co., Ltd, Japan)"
+food,66,26,"Japonica rice with 5 g Sunfibre (Cyamoposis tetragonolobus) (soluble fiber), viscosity 1 (Taiyo Kagaku Co., Ltd, Japan)"
+food,66,28,"Milled (white), high amylose (IR42) rice,  boiled 22 min"
+food,64,28,"Milled (white), high amylose (IR42) rice, boiled 22 min "
+food,64,28,"Milled (white), high amylose (IR42) rice, boiled 22 min"
+food,43,18,"Milled (white), high amylose (IR62) rice, boiled 22 min"
+food,50,22,"Milled (white), high amylose (IR36) rice, boiled 22 min "
+food,53,23,"Milled (white), high amylose (IR62) rice, cooked in rice cooker 20 min "
+food,55,24,"Milled (white), high amylose (IR36) rice, cooked in rice cooker 19 min"
+food,58,25,"Milled (white), high amylose (IR42) rice, cooked in rice cooker 14 min"
+food,66,22,Brown rice 
+food,66,22,Brown rice 
+food,50,16,"Brown rice, steamed"
+food,50,16,"Brown rice, steamed"
+food,72,29,"Brown rice, boiled in excess water for 25 min, SunRice brand"
+food,87,29,Brown rice
+food,87,29,Brown rice
+food,87,33,Calrose brown rice
+food,66,24,"Doongara brown rice, high amylose"
+food,59,30,"Medium Grain Brown Rice in 90 seconds, microwaved on high, SunRice brand"
+food,76,29,Pelde brown rice
+food,64,23,"Parboiled brown rice, cooked 20 min, Uncle Ben's Natur-reis®"
+food,80,31,Sunbrown Quick™ brown rice
+food,58,24,"Brown, high amylose (IR42) rice, boiled 30 min"
+food,46,19,"Instant rice, white, cooked 3 min "
+food,87,36,"Instant rice, white, cooked 6 min, Trice brand"
+food,87,36,"Instant rice, white, cooked 6 min, Trice brand"
+food,87,37,"Instant rice, white, cooked 6 min "
+food,74,31,"Puffed, white rice, cooked 5 min, Uncle Ben's Snabbris®"
+food,74,31,"Puffed, white rice, cooked 5 min, Uncle Ben's Snabbris®"
+food,94,39,"Instant Doongara, white rice, cooked 5 min"
+food,38,14,"Converted, white parboiled rice, boiled 20-30 min, Uncle Ben's®"
+food,38,14,"Converted, white parboiled rice, boiled 20-30 min, Uncle Ben's®"
+food,87,34,"Parboiled rice, low-amylose, Pelde, Sungold"
+food,50,19,"Parboiled rice, high-amylose (28%), Doongara"
+food,87,24,"Rice, Sticky "
+food,87,24,"Rice, Sticky "
+food,88,25,"Rice, Sticky "
+food,50,14,"Rice, Sticky, high-amylose "
+food,50,14,"Rice, Sticky, high-amylose "
+food,30,11," Wheat, whole kernels (Triticum aestivum)"
+food,52,19,"Durum wheat, precooked kernels, cooked 20 min"
+food,50,17,"Durum wheat, precooked kernels, cooked 10 min"
+food,40,16,"Durum wheat, precooked kernels in pouch,  reheated in microwave, Ebly Express"
+food,54,25,"Quick cooking wheat, precooked kernels"
+food,55,4,"Infasoy™ Infant formula, soy-based, milk-free"
+food,35,2,Karicare™ gold starter infant formula with omega plus LCP oils
+food,30,2,Nan-1™ infant formula with iron
+food,36,3,S-26™ infant formula
+food,46,10,Apple baby food 
+food,95,6,"Farex™ baby rice, 7 g cereal with 80 g water"
+food,56,7,"Apple, apricot and banana cereal, Robinsons First Tastes from 4 months"
+food,59,5,"Creamed rice porridge, Robinsons First Tastes from 4 months"
+food,59,6,"Rice pudding, Robinsons First Tastes from 4 months"
+food,67,5,"Chicken and noodles with vegetables, strained, Heinz for Baby from 4 months"
+food,65,10,"Sweetcorn and rice, Heinz for Baby from 4 months"
+food,47,12,"Gruel (wholemeal wheat, rye, rice, wheat and oat flour), made with whole milk and water"
+food,46,14,"Porridge (rice & wheat flour), apple-pear flavored, made with whole milk and water "
+food,51,15,"Porridge (wholemeal wheat, oat, rice & wheat flour), fruit flavored, made with whole milk and water"
+food,54,16,"Porridge (rice and wheat flour), made with whole milk and water"
+food,51,15,"Rice porridge, made with whole milk and water"
+food,40,6,"Baked Beans, canned "
+food,40,6,"Baked Beans, Heinz Vegetarian baked haricot beans"
+food,44,10,Baked Beans in Cheesy Tomato sauce
+food,47,13,Baked Beans in Barbecue sauce
+food,53,13,Baked Beans in Ham sauce
+food,49,11,Baked Beans in Mild Curry sauce
+food,46,12,Baked Beans in Sweet Chilli sauce
+food,40,8,Baked Beans in Tomato sauce
+food,57,13,"Baked Beans in Tomato sauce, canned, reheated in microwave for 1.5 min"
+food,37,11,"Beans, dried, boiled, type not specified"
+food,33,10,"Black eyed beans/peas (Cowpeas), boiled"
+food,52,16,"Blackeyed peas (Vigna unguiculata), boiled"
+food,38,11,"Blackeyed peas (Vigna unguiculata), boiled, consumed with 4.24 g salt"
+food,36,8,"Butter beans, canned, drained, Edgell's™ brand"
+food,26,5,"Butter beans, dried, soaked overnight,  boiled 50 min "
+food,28,6,"Butter beans, dried, soaked overnight, cooked in salted water"
+food,36,7,Butter beans 
+food,31,6,"Cannellini beans, canned, drained, Edgell's™ brand"
+food,10,3,"Chickpeas (Cicer arietinum Linn), dried, soaked, boiled 35 min"
+food,36,11,"Chickpeas, boiled"
+food,38,9,"Chickpeas, canned, drained, Edgell's™ brand"
+food,22,1,"Chickpea Hommus dip, Chris' Traditional brand"
+food,37,9,"Four bean mix, canned, drained, Edgell's™ brand"
+food,31,9,"Haricot/Navy beans, boiled "
+food,39,12,Haricot/Navy beans
+food,23,7,"Haricot beans, home-cooked, soaked overnight, boiled 1h in water, baked in tomato sauce 2h"
+food,14,3,"Kidney/white bean (Phaseolus vulgaris Linn), soaked, boiled 17 min"
+food,19,5,Kidney beans (Phaseolus vulgaris) 
+food,25,6,"Kidney beans (Phaseolus vulgaris L.), red,  soaked 20 min, boiled 70 min "
+food,29,7,Kidney beans 
+food,34,9,"Kidney beans (Phaseolus vulgaris L.), autoclaved"
+food,70,17,"Kidney beans, dried, soaked 12 h, stored moist 24 h, steamed 1 h"
+food,20,5,"Black bean (Phaseolus vulgaris Linn), soaked overnight, cooked 45 min "
+food,43,10,"Dark Red Kidney beans, canned in brine, drained, Edgell's™ brand"
+food,36,9,"Red Kidney beans, canned, drained, Edgell's™ brand"
+food,51,12,"Red Kidney beans, dried, soaked overnight, boiled 60 min"
+food,29,5,"Lentils, type not specified"
+food,42,9,"Lentils, brown, canned, drained, Edgell's™ brand"
+food,37,5,"Lentils, green, dried, boiled"
+food,21,4,"Lentils, red, split, dried, boiled 25 min "
+food,47,9,"Marrowfat peas, dried, boiled "
+food,31,5,"Mung bean (Phaseolus areus Roxb), soaked,  boiled 20 min "
+food,53,9,"Mung bean, fried "
+food,25,4,"Mung bean, germinated "
+food,42,7,"Mung bean, pressure cooked "
+food,22,4,"Pigeon Pea (Cajanus cajan Linn. Huth.), soaked, boiled 45 min"
+food,33,8,"Pinto beans, steamed "
+food,38,10,"Refried Pinto beans, Casa Fiesta™ brand"
+food,15,1,"Soya beans, dried, boiled "
+food,20,1,"Soya beans, dried, boiled "
+food,14,1,"Soya beans, canned "
+food,14,1,"Soya beans, canned in brine, drained, Edgell's™ brand"
+food,25,3,"Split peas, yellow, dried, soaked overnight, boiled 55 min "
+food,29,6,"Chocolate, lactose-free, weight management drink "
+food,29,4,Chocolate weight management bar
+food,23,4,Chocolate weight management drink 
+food,39,7,Chocolate weight management drink 
+food,42,9,"Hazelnut & Apricot bar, meal replacement"
+food,28,2,"InZone™ nutritious beverage powder, prepared with water"
+food,35,7,"Juice Plus+® Complete meal replacement powder, Dutch chocolate flavor "
+food,32,6,"Juice Plus+® Complete meal replacement powder, French vanilla flavor "
+food,36,17,"French style chicken with rice, reheated, Lean Cuisine™ frozen convenience meals"
+food,53,19,"Honey Soy Beef with Wholemeal Noodles, reheated, Lean Cuisine™ frozen convenience meals"
+food,49,20,"Burmese Vegetable Curry & rice, reheated, Lean Cuisine™ frozen convenience meals"
+food,46,17,"Chicken Pomodoro, reheated, Lean Cuisine™ frozen convenience meals"
+food,45,13,"L.E.A.N Fibergy™ bar, Harvest Oat"
+food,26,3,"Nutrimeal™, drink powder, Dutch Chocolate, L.E.A.N™ products Harvest Oat"
+food,30,6,"L.E.A.N (Life long) Nutribar™, Peanut Crunch, Harvest Oat"
+food,32,6,"L.E.A.N (Life long) Nutribar™, Chocolate Crunch, Harvest Oat"
+food,23,3,Lemon weight management bar
+food,32,7,Lemon weight management bar L.E.A.N™ products Harvest Oat
+food,43,10,Malt toffee weight management bar L.E.A.N™ products Harvest Oat
+food,22,3,Peanut Butter weight management bar
+food,28,2,"Provide™ nutritious beverage powder, prepared with water"
+food,10,1,"ReduceXS™ Chocolate Deluxe formulated meal replacement powder, prepared with water"
+food,28,2,"SICCON D2™ nutritious beverage powder, prepared with water"
+food,54,18,SlimFast® chocolate caramel meal replacement bar
+food,27,6,SlimFast® chocolate meal replacement bar
+food,49,16,SlimFast® Chocolate Muesli snack bar
+food,36,17,"SlimFast® Double Chocolate meal replacement powder, prepared with skim milk"
+food,37,10,SlimFast® French Vanilla ready-to-drink shake
+food,35,12,"SlimFast® meal replacement powder, prepared with skim milk"
+food,33,10,SlimFast® Strawberry Supreme ready-to-drink shake
+food,20,5,"SlimFast® meal, Garden vegetable soup with peppers and croutons"
+food,53,12,"SlimFast® meal, Pasta Florentina meal"
+food,22,6,"Tony Ferguson's Meal Replacement Shake, all flavors, prepared with water"
+food,14,3,"Designer chocolate, sugar-free, Worldwide Sport Nutrition reduced-carbohydrate products (2000 formulations)"
+food,29,2,"Burn-it™ bars, Chocolate deluxe"
+food,23,1,"Burn-it™ bars, Peanut butter"
+food,30,4,"Chewy choc-chip, Pure-protein™ bars"
+food,38,5,"Chocolate deluxe, Pure-protein™ bars"
+food,22,2,"Peanut butter, Pure-protein™ bars"
+food,43,6,"Strawberry shortcake, Pure-protein™ bars"
+food,40,6,"White chocolate mousse, Pure-protein™ bars"
+food,25,3,"Pure-protein™ cookies, Choc-chip cookie dough"
+food,42,4,"Pure-protein™ cookies, Coconut"
+food,37,3,"Pure-protein™ cookies, Peanut butter"
+food,53,8,"Beef and ale casserole, convenience meal"
+food,43,15,"Berrynice Yoghurt Crunch (low fat yoghurt, honey toasted oats, strawberries and blueberries), convenience meal"
+food,66,20,"Fillet-O-Fish™ burger (fish patty, cheese and tartare sauce on a burger bun)"
+food,66,17,"Hamburger (beef patty, ketchup, pickle, onion and mustard on a burger bun)"
+food,66,17,"Lean beef burger (lean beef patty, tomato, mixed lettuce, cheese, onion and sauce on a burger bun)"
+food,66,26,"McChicken™ burger (chicken patty, lettuce, mayonnaise on a burger bun)"
+food,59,14,"Vege Burger (vegetable patty, lettuce, tomato and sweet chilli sauce on a burger bun) "
+food,15,8,"Cannelloni, spinach and ricotta "
+food,44,21,"Chicken korma and peshwari rice, prepared meal"
+food,45,21,"Chicken korma and rice, convenience meal"
+food,46,7,"Chicken nuggets, frozen, reheated in microwave oven 5 min"
+food,55,12,Chicken McNuggets™ consumed with sweet Thai chilli sauce
+food,34,21,"Chicken tikka masala and rice, convenience meal"
+food,42,19,"Chilli beef noodles, prepared convenience meal"
+food,34,12,"Chilli con carne, made from haricot beans "
+food,55,13,"Chow mein, chicken, convenience meal"
+food,47,18,"Chow mein, chicken, convenience meal"
+food,37,8,"Continental™ Wholegrain Pasta & Sauce, Cheesy, prepared with water, reduced-fat milk & margarine"
+food,39,9,"Continental™ Wholegrain Pasta & Sauce, Creamy Carbonara, prepared with water, reduced-fat milk & margarine"
+food,43,10,"Continental™ Wholegrain Pasta &  Sauce, Creamy Sun-dried Tomato, prepared with water, reduced-fat milk & margarine"
+food,33,7,"Continental™ Wholegrain Pasta & Sauce, Parmesan and Cracked Pepper,  prepared with water, reduced-fat milk and margarine"
+food,65,22,Cottage pie 
+food,40,12,Cumberland fish pie 
+food,29,11,Cumberland pie 
+food,28,6,"Dumpling, containing meat and shallots "
+food,42,18,"Fajitas, chicken "
+food,40,15,"Greek lentil stew with a bread roll, home made"
+food,66,22,"Instant mashed potato, eaten with 62 g cheese and 16 g butter "
+food,36,12,"Kidney beans, (canned) with bacon and tomatoes"
+food,21,7,"Kidney beans, cooked from dried beans, with bacon and tomatoes"
+food,35,10,"Lamb moussaka, prepared convenience meal"
+food,47,17,"Lasagne, beef"
+food,28,11,"Lasagne, meat"
+food,34,10,"Lasagne, type not specified"
+food,25,8,"Lasagne, type not specified"
+food,20,10,"Lasagne, vegetarian "
+food,60,25,Lentil and cauliflower cury with rice 
+food,25,11,Lentil and cheese pie
+food,35,7,"Lentils and vegetables, steamed for 10 min then boiled for 10 min consumed with an orange"
+food,26,11,Mushroom stroganoff with rice 
+food,27,10,Parboiled rice consumed with 68 g cheese and 14 g butter 
+food,54,12,"Spaghetti, beans & vegetables steamed for 25 min, consumed with an orange "
+food,45,12,"Pies, beef, party size"
+food,36,9,"Pizza, Super Supreme, pan (11.4% fat)"
+food,30,7,"Pizza, Super Supreme, thin and crispy (13.2% fat)"
+food,49,12,"Pizza, Vegetarian Supreme, thin and crispy (7.8% fat)"
+food,54,11,"Stone Baked Whole Wheat Pizza - Vegetable, Pesto and Feta Cheese, President's Choice® Blue Menu™"
+food,62,23,"Potato, Estima (50 g), microwaved 6 min then baked 10 min, served with baked beans (89 g) "
+food,76,20,"Potato, Estima (50 g), microwaved 6 min then baked 10 min, served with canned tuna (62 g) "
+food,39,10,"Potato, Estima (50 g), microwaved 6 min then baked 10 min, served with cheddar cheese (62 g)"
+food,75,23,"Potato, Estima (50 g), microwaved 6 min then baked 10 min, served with chilli con carne (63 g)"
+food,17,8,Potato noodles with meat 
+food,38,15,"Barley Risotto with Herbed Chicken (entrée), President's Choice® Blue Menu™ convenience meals"
+food,13,1,"4-Bean Salad, low-fat, President's Choice® Blue Menu™ convenience meals"
+food,21,4,"Cauliflower-Topped Shepherd's Pie (entrée), President's Choice® Blue Menu™ convenience meals"
+food,26,3,"Chicken Curry with Vegetables (entrée), President's Choice® Blue Menu™ convenience meals"
+food,34,13,"Deluxe Cheddar Macaroni & Cheese Dinner, President's Choice® Blue Menu™ convenience meals"
+food,41,18,"Ginger-Glazed Salmon (entrée), President's Choice® Blue Menu™ convenience meals"
+food,54,15,"Lentil and Bean Vegetable Patties, President's Choice® Blue Menu™ convenience meals"
+food,40,11,"Linguine with Shrimp Marinara (entrée), President's Choice® Blue Menu™ convenience meals"
+food,39,17,"Penne with Roasted Vegetables (entrée), President's Choice® Blue Menu™ convenience meals"
+food,57,25,"Rotini with Chicken Pesto (entrée), President's Choice® Blue Menu™ convenience meals"
+food,44,15,"3-Rice Bayou Blend Rice & Beans Sidedish, President's Choice® Blue Menu™ convenience meals"
+food,46,16,"4-Rice Pilaf Rice & Beans Sidedish, President's Choice® Blue Menu™ convenience meals"
+food,49,17,"Rice & Lentils Espana Sidedish, President's Choice® Blue Menu™ convenience meals"
+food,44,8,"Sesame Ginger Chicken with Vegetables (entrée), President's Choice® Blue Menu™ convenience meals"
+food,29,9,"Tomato and Herb Chicken (entrée), President's Choice® Blue Menu™ convenience meals"
+food,54,14,"Vegetable Ancient Grain Vegetable Patties, President's Choice® Blue Menu™ convenience meals"
+food,39,11,"Vegetarian Chili, President's Choice® Blue Menu™ convenience meals"
+food,25,4,"Yellow Curry Chicken (entrée), President's Choice® Blue Menu™ convenience meals"
+food,61,25,"Sausages and mash potato, prepared convenience meal "
+food,66,35,"Sirloin chop with mixed vegetables and mashed potato, homemade "
+food,66,29,"Shepherds pie, prepared convenience meal "
+food,52,25,"Spaghetti bolognaise, home made "
+food,52,25,"Spaghetti bolognaise, home made "
+food,48,12,Steak and ale with cheddar mash potato convenience meal
+food,39,12,"Stuffed bun, with shallots and meat, steamed "
+food,48,17,"Sushi, salmon"
+food,55,20,"Sushi, roasted sea algae, vinegar and rice "
+food,41,21,"Sweet and sour chicken with noodles, prepared convenience meal"
+food,45,27,Tandoori chicken masala & rice convenience meal
+food,78,44,"Chicken Tandoori Deli Choice white French roll white bread (tandoori chicken, tomato, lettuce, cucumber, mint & yoghurt sauce on a roll)"
+food,67,32,"Chicken Tandoori Deli Choice Multigrain roll bread (tandoori chicken, tomato, lettuce, cucumber, mint & yoghurt sauce on a roll)"
+food,63,34,"Turkey & Cranberry Deli Choice Multigrain roll bread (turkey, lettuce, cranberry sauce, cheese and mayonnaise on a roll)"
+food,55,37,"White wheat flour bread, butter, cheese, regular milk and fresh cucumber "
+food,39,11,"White wheat flour bread, butter, yoghurt and pickled cucumber "
+food,50,20,White bread roll with cheese 
+food,78,11,"White bread (Rustico Panem, Panem, Verona, Italy), consumed with 35 g butter (Burro Galbani, Cademartori, Lodi, Italy)"
+food,20,3,"White bread (Rustico Panem, Panem, Verona, Italy), eaten with 35 g Mazola corn oil (CDC, Milan, Italy)"
+food,20,3,"White bread (Rustico Panem, Panem, Verona, Italy), eaten with 35 g olive oil (Olio Sagra, Lucca, Italy)"
+food,58,0,"White bread consumed with margarine, eggs and orange juice "
+food,50,11,"White bread (30 g), toasted, served with baked beans (51 g)"
+food,35,5,"White bread (30 g), toasted, served with cheddar cheese (36 g)"
+food,74,37,"White Bread (Wonder Bread) (140 g), consumed with 30 g raw almonds"
+food,44,23,"White Bread (Wonder Bread) (140 g), consumed with 60 g raw almonds"
+food,39,20,"White bread (Wonder Bread) (100 g), consumed with 60 g raw, unblanched almonds  (California Almonds, USA)"
+food,31,16,"White Bread (Wonder Bread) (140 g), consumed with 90 g raw almonds"
+food,23,6,"Choicedm™ nutritional support product, vanilla"
+food,12,3,"Diasip® nutritional support product, diabetes-specific enteral formula"
+food,17,5,"Diason®/Nutrison Diabetes, diabetes-specific enteral formula"
+food,22,5,"Diben®, diabetes-specific enteral formula"
+food,61,24,"Enercal Plus™ nutritional support product, made from powder"
+food,50,19,"Ensure™ nutritional support product, vanilla"
+food,48,16,"Ensure™ nutritional support product, vanilla"
+food,43,8,"Ensure™ bar nutritional support product, chocolate fudge brownie (Abbott Australasia)"
+food,51,3,"Ensure™ Hospital, nutritional supplement powder, prepared with water (Abbott Nutrition International)"
+food,40,19,"Ensure Plus™ nutritional support product, vanilla (Abbott Australasia)"
+food,36,9,"Ensure Pudding™ nutritional support product, old fashioned vanilla (Abbott Laboratories Inc, Ashland, USA)"
+food,25,6,"Fortimel® enteral formula, nutritional support product (Nutricia N.V., Netherlands)"
+food,20,5,"Glucerna Chocolate Graham nutritional supplement bar (Ross Nutrition, Canada)"
+food,15,4,"Glucerna, diabetes-specific enteral formula (Abbott Laboratories Inc, USA)"
+food,19,4,"Glucerna™ enteral nutritional supplement, vanilla flavor (Abbott Nutrition International)"
+food,20,4,"Glucerna™ enteral nutritional supplement, vanilla flavor (Abbott Nutrition International)"
+food,26,8,"Glucerna™ enteral nutritional supplement, vanilla flavor (Ross Nutrition, Canada)"
+food,31,8,"Glucerna™ enteral nutritional supplement, vanilla (Abbott Laboratories Inc., USA)"
+food,16,2,"Glucerna Select, enteral nutritional supplement (Abbott Nutrition International)"
+food,23,6,"Glucerna SR, diabetes-specific enteral formula (Abbott Laboratories Inc., USA)"
+food,25,6,Inslow™ enteral nutritional supplement (Abbott Nutrition International - Japan)
+food,48,17,Jevity™ enteral nutritional supplement (Abbott Australasia)
+food,59,27,"Jevity™ HiCal, enteral nutritional supplement (Abbott Nutrition International)"
+food,26,8,"Novasource Diabet®, diabetes-specific enteral formula (Novartis Consumer Health SA, Switzerland)"
+food,25,12,"Nutridrink (Nutricia N.V., Netherlands)"
+food,22,10,"Nutridrink Multifiber, containing 2.3 g fiber/100 mL  (Nutricia N.V., Netherlands)"
+food,28,9,"Nutrison Mutli fiber® enteral formula (Nutricia N.V., Netherlands)"
+food,34,10,"Nutrison Standard® enteral formula (Nutricia N.V., Netherlands)"
+food,49,16,"Promote with fiber™ nutritional supplement (Ross Nutrition, USA)"
+food,54,20,"Prosure™, ready-to-drink supplement, vanilla flavor (Abbott Nutrition International)"
+food,55,23,"Prosure™, ready-to-drink supplement, vanilla flavor (Abbott Nutrition International)"
+food,34,8,"Resource Diabetic™, French vanilla (Novartis Nutrition Corp., Young America, USA)"
+food,16,7,"Resource Diabetic™, Swiss chocolate (Novartis, Auckland, New Zealand)"
+food,40,16,"Resource™ fruit beverage, peach flavor (Novartis, New Zealand)"
+food,47,18,"Resource™ thickened orange juice, honey consistency (Novartis, New Zealand)"
+food,54,19,"Resource™ thickened orange juice, nectar consistency (Novartis, New Zealand)"
+food,31,13,"Sustagen™, Dutch Chocolate (Mead Johnson, Bristol Myers Squibb, Rydalmere, Australia)"
+food,33,15,"Sustagen™ Hospital with extra fiber, drink made from powdered mix (Mead Johnson, Australia)"
+food,27,13,"Sustagen™ Instant Pudding, vanilla, made from powdered mix (Mead Johnson, Australia) "
+food,27,7,Tapion™ nutritonal supplement (Abbott Nutrition International - Japan)
+food,55,27,"TwoCal HN™, high nitrogen nutritional supplement, vanilla flavor (Abbott Nutrition International)"
+food,40,12,"Ultracal™ with fiber, nutritional supplement  (Mead Johnson, Evansville, IN, USA)"
+food,22,3,"Cashew nuts, salted (Coles Supermarkets, Australia)"
+food,25,3,Cashew nuts 
+food,25,3,"Cashew nuts, organic, roasted and salted "
+food,27,3,Cashew nut halves
+food,27,3,"Cashew nuts, roasted and salted"
+food,21,3,Mixed nuts and raisins
+food,24,4,"Mixed nuts, roasted and salted"
+food,7,0,"Peanuts, crushed "
+food,59,25,Buckwheat noodles 
+food,53,22,"Buckwheat noodles, instant"
+food,32,15,"Fettucine, egg "
+food,47,22,"Fettucine, egg (Mother Earth Fine Foods, New Zealand)"
+food,54,23,"Gluten-free pasta, maize starch, boiled 8 min "
+food,54,23,"Gluten-free pasta, maize starch, boiled 8 min "
+food,68,33,"Gnocchi, type not specified (Latina, Pillsbury Australia Ltd, Mt. Waverley, Australia)"
+food,46,11,"Instant 'two-minute' noodles, Maggi® (Nestlé, Australia) (1995)"
+food,48,12,"Instant 'two-minute' noodles, Maggi® (Nestlé, Auckland, New Zealand)"
+food,52,13,"Instant 'two-minute' noodles, Maggi®, all flavors (Nestlé Australia) (2005)"
+food,52,11,"Instant noodles, all flavors (Woolworths Limited, Australia)"
+food,43,21,"Linguine, Thick, durum wheat, white, fresh "
+food,48,23,"Linguine, Thick, fresh, durum wheat flour, 0.6% w/w monoglycerides, boiled 8 min "
+food,49,23,"Linguine, Thin, durum wheat"
+food,61,29,"Linguine, Thin, fresh, durum wheat flour, 0.6% w/w monoglycerides, boiled 3 min"
+food,45,18,"Linguine, Thin, fresh, durum wheat with 39% w/w egg"
+food,53,22,"Linguine, Thin, fresh, with 0.6% w/w monoglycerides and 30% w/w egg, boiled 3 min"
+food,39,18,"Mung bean noodles (Longkou beanthread),  dried, boiled (Yantai cereals, China)"
+food,39,15,"Ravioli, durum wheat flour, meat filled, boiled"
+food,61,23,"Rice noodles, dried, boiled (Thai World, Bangkok, Thailand)"
+food,40,15,"Rice noodles, freshly made, boiled (Sydney, NSW, Australia)"
+food,41,18,"Rice noodles made from IR42 (high amylose) rice flour, boiled for 22 min"
+food,51,24,"Rice pasta, gluten-free (Freedom Foods,  Australia)"
+food,92,35,"Rice pasta, brown, boiled 16 min (Rice Grower's Co-op, Australia)"
+food,76,37,"Rice and maize pasta, gluten-free, Ris'O'Mais (Orgran Foods,  Australia)"
+food,51,25,"Spaghetti, gluten-free, rice and Hi-Maize (high-amlyose) flour (Freedom Foods, Australia)"
+food,51,25,"Spaghetti, gluten-free, rice and Hi-Maize (high-amlyose) flour (Freedom Foods, Australia)"
+food,68,19,"Spaghetti, gluten-free, rice and split pea,  canned in tomato sauce "
+food,41,19,"Spaghetti, 75% durum wheat flour and 25% chickpea flour boiled 10 min (Rio Dulce SA, Guadalajara, Spain)"
+food,47,17,"Spaghetti, soy (Revival Soy®, Physicians Pharmaceuticals, Inc, USA)"
+food,51,24,"Spaghetti, White, boiled for 10 min (Rio Dulce SA, Guadalajara, Spain)"
+food,58,28,"Spaghetti, White, durum wheat, boiled 10 min in salt water (Barilla, Parma, Italy)"
+food,47,23,"Spaghetti, White, durum wheat flour, boiled 12 min (Starhushålls, Kungsörnen AB, Järna, Sweden)"
+food,53,25,"Spaghetti, White, durum wheat flour, 0.6% w/w monoglycerides, boiled 12 min "
+food,44,21,"Spaghetti, White, boiled 15 min in salted water (Unico, Concord, ON, Canada)"
+food,41,19,"100% durum semolina spaghetti, type not specified, boiled 15 min (Unico, Canada)"
+food,58,26,"Spaghetti, white, durum wheat, boiled 20 min  "
+food,58,26,"Spaghetti, white, durum wheat, boiled 20 min  "
+food,39,18,"Spaghetti, white, boiled"
+food,39,18,"Spaghetti, white, boiled"
+food,46,22,"Spaghetti, white, boiled (Nishin Shokuhin, Japan)"
+food,46,22,"Spaghetti, white, boiled (Nishin Shokuhin, Japan)"
+food,48,23,"Spaghetti, white, boiled (Unico, Canada)"
+food,48,23,"Spaghetti, white, boiled (Unico, Canada)"
+food,49,22,"Spaghetti, white, boiled (Vetta, Greens Foods, Glendenning, Australia)"
+food,49,22,"Spaghetti, white, boiled (Vetta, Greens Foods, Glendenning, Australia)"
+food,50,24,"Spaghetti, white, boiled"
+food,50,24,"Spaghetti, white, boiled"
+food,59,28,"Spaghetti, white, durum wheat semolina (Panzani, Marseilles, France), boiled in 0.7% salted water for 11 min"
+food,59,28,"Spaghetti, white, durum wheat semolina (Panzani, Marseilles, France), boiled in 0.7% salted water for 11 min"
+food,65,31,"Spaghetti, white, durum wheat semolina (Panzani, Marseilles, France), boiled in 0.7% salted water for 16.5 min"
+food,65,31,"Spaghetti, white, durum wheat semolina (Panzani, Marseilles, France), boiled in 0.7% salted water for 16.5 min"
+food,46,22,"Spaghetti, white, durum wheat semolina (Panzani, Marseilles, France), boiled in 0.7% salted water for 22 min"
+food,46,22,"Spaghetti, white, durum wheat semolina (Panzani, Marseilles, France), boiled in 0.7% salted water for 22 min"
+food,42,17,"Wholemeal spaghetti, boiled"
+food,42,17,"Wholemeal spaghetti, boiled"
+food,45,18,"President's Choice® Blue Menu™ Whole Wheat spaghetti (Loblaw Brands Limited, Canada), boiled"
+food,45,18,"President's Choice® Blue Menu™ Whole Wheat spaghetti (Loblaw Brands Limited, Canada), boiled"
+food,54,24,"Tagliatelle, egg, boiled (Sainsbury's, UK)"
+food,62,30,"Udon noodles, plain, reheated 5 min (Fantastic, Windsor Gardens, SA, Australia)"
+food,46,19,"Wheat noodle, dried"
+food,82,34,"Wheat noodle, fresh "
+food,63,3,"Broad beans, frozen, reheated in microwave (Logan Farm Pty Ltd,  Australia)"
+food,51,4,"Pea, frozen, boiled "
+food,54,4,"Pea, green (Pisum Sativum) "
+food,24,6,Brown beans 
+food,34,0,FooFoo corn (Zea mays) and ndole (vegetable soup)
+food,12,7,"Ga kenkey, prepared from fermented cornmeal (Zea mays) eaten with fish, tomato and onion sauce "
+food,56,15,"Gari, roasted cassava dough (Manihot utilissima) eaten with fish, tomato and onion sauce "
+food,5,1,"Gram dhal soaked overnight, cooked in salted water "
+food,48,0,Kidney bean (Phaseolus vulgaris) stew and plantain (Musa paradisiaca) 
+food,52,0,Koki beans (Phaseolus vulgaris) and cassava (Manihot esculenta)
+food,71,25,"Maize meal porridge, unrefined, maize-meal:water = 1:3 "
+food,74,30,"Maize meal porridge, refined, maize-meal:water = 1:3"
+food,68,34,"M'fino/Morogo, wild greens"
+food,46,0,Rice (Oriza sativa) and tomato soup 
+food,40,13,"Unripe plantain (Musa paradisiaca) eaten with fish,tomato and onion sauce "
+food,34,14,"White rice (Oryza sativa), boiled, eaten with fish,tomato and onion sauce "
+food,66,24,"Yam (Dyscoria species) eaten with fish, tomato and onion sauce"
+food,50,0,Yam (Dioscorea species) and groundnut (Arachis hypogaea) 
+food,37,19,"Dates, Khalas (Rutab, soft early ripened) (90 g),  eaten with full-fat plain yoghurt (125 g)"
+food,29,15,"Dates, Khalas (Tamer, dark brown commercial) (60 g), eaten with full-fat plain yoghurt (125 g) "
+food,6,0,Hummus (chickpea salad dip)
+food,86,39,"Lebanese bread (white, unleaved), hummus,  falafel and tabbouleh"
+food,30,4,Stuffed grapevine leaves (rice and lamb stuffing  with tomato sauce)
+food,86,37,"Broken rice, white, cooked in rice cooker (Lion foods, Bangkok, Thailand)"
+food,79,40,"Butter rice, warm white rice and butter "
+food,67,41,Curry rice
+food,55,27,Curry rice with cheese 
+food,65,27,"Glutaminous rice flour, instant, served warm with roasted ground soybean "
+food,94,31,"Glutinous rice, white, cooked in rice cooker (Bangsue Chia Meng Rice Co., Bangkok, Thailand)"
+food,86,56,"Glutinous rice, type not specified (Esubi Shokuhin, Japan)"
+food,48,13,Glutinous rice ball with cut glutinous cake  (mochi) 
+food,83,32,Glutinous rice cake with dried sea algae 
+food,109,46,"Jasmine rice, white, cooked in rice cooker (Golden World Foods, Bangkok, Thailand)"
+food,33,3,Lotus root powder 
+food,70,42,Low-protein white rice with dried sea algae 
+food,39,18,"Mung bean noodles, dried, boiled "
+food,68,34,"Non-glutaminous rice flour, served warm with drink (Yamato Nousan, Japan)"
+food,81,15,"Rice gruel with dried algae (Satou Co Ltd., Japan)"
+food,61,23,"Rice noodles, dried, boiled (Thai World, Bangkok, Thailand)"
+food,40,15,"Rice noodles, fresh, boiled (Sydney, NSW, Australia)"
+food,77,21,"Roasted rice ball (Satou Co Ltd., Japan)"
+food,80,21,"Salted rice ball (Satou Co Ltd., Japan)"
+food,46,22,"Soba noodles, instant, reheated in hot water, served with soup "
+food,48,17,"Sushi, salmon ('I Love Sushi', Sydney, Australia)"
+food,55,20,"Sushi, roasted sea algae, vinegar and rice"
+food,62,30,"Udon noodles, fresh, reheated (Fantastic brand, Windsor Gardens, SA, Australia)"
+food,48,23,"Udon noodles, instant, with sauce and fried  bean curd (Nishin Shokuhin, Japan)"
+food,57,27,"White rice, dried sea algae and milk, eaten together "
+food,56,26,"White rice, dried sea algae and milk (milk eaten before rice)"
+food,55,26,"White rice, dried sea algae and milk (milk eaten after rice)"
+food,79,40,White rice with dried fish strip (okaka)
+food,56,24,White rice with fermented soybean (natto) 
+food,61,29,White rice with instant miso soup (soybean paste soup) 
+food,69,32,White rice with low-fat milk 
+food,59,19,White rice and non-sugar yoghurt (yoghurt eaten before rice)  
+food,58,19,White rice and non-sugar yoghurt eaten together 
+food,63,27,White rice with pickled vinegar and cucumber  (pickled food eaten before rice) 
+food,61,26,White rice with pickled vinegar and cucumber  (pickled food eaten with rice) 
+food,72,26,White rice topped with raw egg and soy sauce 
+food,56,29,White rice with roasted ground soybean 
+food,80,39,White rice with salted dried plum (umeboshi) 
+food,77,39,White rice with sea algae rolled in sheet of toasted  sea algae 
+food,49,25,"Bajra (Penniseteum typhoideum), eaten as  roasted bread made from bajra flour"
+food,70,31,"Banana, (Musa sapientum), Nendra variety,  unripe, steamed 1 h"
+food,48,16,Barley (Hordeum vulgare)
+food,11,4,"Bengal gram dhal, chickpea"
+food,43,8,"Black gram, (Phaseolus mungo), soaked 12 h,  stored moist 24 h, steamed 1 h"
+food,49,0,"Chapatti, bajra"
+food,48,0,"Chapatti, barley"
+food,59,0,"Chapatti, maize (Zea mays) "
+food,66,25,"Chapatti, flour from malted wheat, moth bean (Phaseolus aconitifolius) and bengal gram (Cicer arietinum)"
+food,40,14,"Chapatti, flour made from popped wheat, moth bean and bengal gram"
+food,60,23,"Chapatti, flour from roller dried wheat, moth bean  and bengal gram"
+food,44,22,"Chapatti, wheat flour, thin, with green gram  (Phaseolus aureus) dhal"
+food,42,12,"Cheela (thin savoury pancake made from legume  flour batter), bengal gram (Cicer arietinum)"
+food,36,10,"Cheela (thin savoury pancake made from legume  flour batter), bengal gram (Cicer arietinum), fermented batter "
+food,45,12,"Cheela (thin savoury pancake made from legume  flour batter), green gram (Phaseolus aureus) "
+food,38,10,"Cheela (thin savoury pancake made from legume  flour batter), green gram (Phaseolus aureus), fermented batter"
+food,55,22,"Dosai (parboiled and raw rice, soaked, ground,  fermented and fried) with chutney"
+food,38,6,"Green gram, (Phaseolus aureus), soaked 12 h, stored moist 24 h, steamed 1 h"
+food,51,15,"Horse gram, (Dolichos biflorus) soaked 12 h, stored moist 24 h, steamed 1 h"
+food,60,31,"Idli (parboiled and raw rice with black dhal, soaked, ground, fermented, steamed) with chutney "
+food,60,31,Lentil and cauliflower curry with rice 
+food,68,23,"Millet/Ragi, (Eleucine coracana), dehusked, soaked 12 h, stored moist 24 h, steamed 1 h"
+food,45,35,"Pongal (rice and roasted green gram dhal, pressure cooked) "
+food,57,28,Poori (deep-fried wheat flour dough) with  potato palya (mashed potato)
+food,39,23,"Porridge, made from scoured wheat, consumed with Bengal gram, green gram and black gram "
+food,65,44,"Porridge, made from decorticated finger millet, eaten with Bengal gram, green gram and black gram"
+food,76,52,"Porridge, made from popped rice (aralu), consumedwith Bengal gram, green gram and black gram"
+food,74,47,"Porridge, made from expanded rice (puri), consumedwith Bengal gram, green gram and black gram"
+food,19,6,"Rajmah, Phaseolus vulgaris "
+food,69,28,"Upittu (roasted semolina and onions, cooked in water)"
+food,8,1,"Acacia aneura (mulga seed) roasted,  wet ground to paste"
+food,46,11,"Acacia coriacea, desert oat seed bread"
+food,47,7,"Araucaria bidwillii (bunya tree nut), baked 10 min"
+food,43,11,"Bush honey, sugar bag"
+food,8,1,"Castanospermum austral (blackbean seed), sliced, soaked 1 wk, pounded and baked"
+food,34,12,"Dioscorea bulbifera (cheeky yam), peeled, sliced,  soaked 2 d, baked 15 min"
+food,40,10,"Macrozamia communis (cycad palm seed), sliced, soaked 1 wk, pounded, baked"
+food,68,18,Breadfruit (Artocarpus altilis) 
+food,38,8,"Green banana, boiled "
+food,68,21,Plantain (Musa AAB) 
+food,16,1,"Acorns (Quercus emoryi), stewed with venison"
+food,91,18,Cactus jam (Stenocereus thurberi)
+food,40,12,Corn hominy (Zea mays)
+food,70,17,Fruit Leather (Stenocereus thurberi)
+food,36,11,Lima beans broth (Phaseolus lunatus)
+food,38,9,Tortilla (Zea mays and Olneya tesota)
+food,31,10,White teparies broth (Phaseolus acutifolius)
+food,29,8,Yellow teparies broth (Phaseolus acutifolius)
+food,72,31,"Arepa, corn bread cake, made with corn flour "
+food,81,35,"Arepa, made from ordinary dehulled dent corn flour (25% amylose)"
+food,44,11,"Arepa, made from dehulled high-amylose (70%) corn flour "
+food,54,19,"Arepa, made from white corn meal flour "
+food,60,19,"Arepa, made from white corn meal flour, supplemented with 20% stabilised rice bran "
+food,31,24,Ground beef served with rice and an orange 
+food,49,16,"Lentil soup, pureed consumed with an orange "
+food,47,8,"Pinhao, Brazilian Parana Pine seeds (Araucaria  angustifolia) with coat, cooked for 1.5 h in 1 L of water"
+food,43,8,"Pinhao, without coat, cooked for 1h in 1L of water "
+food,14,4,"Pinto beans, boiled in salted water "
+food,42,21,Spaghetti served with beef tomato sauce  and an orange 
+food,42,21,Spaghetti served with beef tomato sauce  and an orange 
+food,77,25,Spaghetti served with pressure-cooked white beans and an orange 
+food,77,25,Spaghetti served with pressure-cooked white beans and an orange 
+food,28,5,Wheat tortilla served with refried pinto beans and tomato sauce 
+food,60,17,"Breadfruit (Artocarpus altilis), peeled, boiled 26 min,  frozen, thawed and reheated for 1 min"
+food,65,0,Sadha roti (leavened wheat-based bread)
+food,66,10,Amaranth : wheat (25:75) flour flatbread
+food,76,11,Amaranth : wheat (50:50) flour flatbread
+food,50,12,"All-Bran™, high-fiber breakfast cereal, extruded wheat bran cereal (Kellogg's Inc., Etobicoke, Canada)"
+food,58,7,"Bran Buds™ breakfast cereal (Kellogg's Inc., Canada)"
+food,47,6,"Bran Buds with psyllium breakfast cereal (Kellogg's Inc., Canada)"
+food,58,11,"Bran Chex™ breakfast cereal (Nabisco Brands Ltd., Toronto, Canada)"
+food,74,15,"Cheerios™ breakfast cereal (General Mills Inc., Etobicoke, Canada)"
+food,75,15,"Corn Bran™ breakfast cereal (Quaker Oats Co. of Canada,  Peterborough, Canada)"
+food,83,21,"Corn Chex™ breakfast cereal (Nabisco Brands Ltd., Canada)"
+food,72,18,"Cornflakes™ (Kellogg's, Auckland, New Zealand)"
+food,86,22,"Cornflakes™ breakfast cereal (Kellogg's Inc., Canada)"
+food,92,24,"Cornflakes™ breakfast cereal (Kellogg's, USA)"
+food,93,25,"Cornflakes breakfast cereal (Kellogg's, France)"
+food,132,33,"Cornflakes breakfast cereal (Kellogg's, MI, USA)"
+food,74,17,"Cornflakes, high-fiber breakfast cereal (Presidents Choice, Sunfresh Ltd., Toronto, Canada)"
+food,66,17,"Cream of Wheat™ breakfast cereal (Nabisco Brands Ltd., Canada)"
+food,74,22,"Cream of Wheat™, Instant  (Nabisco Brands Ltd., Canada)"
+food,87,22,"Crispix™ breakfast cereal (Kellogg's Inc., Canada)"
+food,61,12,"Fruitful Lite™ breakfast cereal (Hubbards, Auckland, New Zealand)"
+food,71,18,"Golden Grahams™ breakfast cereal (General Mills Inc., Canada)"
+food,67,13,"Grapenuts™ breakfast cereal (Post, Kraft General Foods Inc., Canada)"
+food,80,17,"Grapenuts™ Flakes breakfast cereal (Post, Kraft General Foods Inc., Canada)"
+food,66,17,"Life™ breakfast cereal (Quaker Oats Co., Canada)"
+food,60,11,"Muesli, No Name breakfast cereal (Sunfresh Ltd., Toronto, Canada)"
+food,50,2,"Oat bran, raw (Quaker Oats Co., Canada)"
+food,59,3,"Oat bran, raw"
+food,60,4,"Oat Bran (Quaker Oats Co., Peterborough, ON, Canada)"
+food,79,10,"Oat bran crisp (Natureal® GI-crisp, Finn Cereal, Vantaa, Finland)"
+food,40,2,"Oat bran flour (Natureal® GI-flour, Finn Cereal,  Vantaa, Finland), consumed mixed with cold water"
+food,62,14,Porridge made from rolled oats
+food,69,16,Porridge made from rolled oats
+food,75,17,Porridge made from rolled oats
+food,65,17,"Quick Oats, instant porridge (Quaker Oats Co., Canada) "
+food,66,17,"One Minute Oats,  instant porridge (Quaker Oats Co., Canada)"
+food,71,17,"Pro Stars™, instant porridge (General Mills Inc., Canada)"
+food,67,13,"Puffed Wheat (Quaker Oats Co., Canada)"
+food,49,11,"Red River Cereal (Maple Leaf Mills, Toronto, Canada)"
+food,89,23,"Rice Chex™ (Nabisco Brands Ltd., Canada)"
+food,82,22,"Rice Krispies™ (Kellogg's Inc., Canada)"
+food,83,17,"Shredded Wheat™ (Nabisco Brands Ltd., Canada)"
+food,90,15,"Sultana Bran (Healthy Living, UK)"
+food,82,18,"Team™ (Nabisco Brands Ltd., Canada)"
+food,65,15,"Thank Goodness™ (Hubbards, New Zealand)"
+food,76,17,"Total™ (General Mills Inc., Canada)"
+food,36,6,"Wheat flakes, enriched with extruded oat-bran concentrate (8.1% ß-glucan)"
+food,74,16,"Weetabix™, plain flaked wheat biscuits (Weetabix of Canada Ltd., Thornhill, Canada)"
+food,97,21,"Amaranth (Amaranthus esculentum) popped, eaten with milk and non-nutritive sweetener"
+food,49,15,Buckwheat 
+food,51,15,Buckwheat 
+food,63,19,Buckwheat 
+food,109,0,Maize meal porridge/gruel 
+food,68,8,"Taco shells, cornmeal-based, baked (Old El Paso Foods Co., Toronto, Canada)"
+food,61,21,"Couscous, boiled 5 min (Near East Food Products Co., Leominster, MA, USA)"
+food,69,23,"Couscous, boiled 5 min "
+food,71,26,"Millet, boiled "
+food,107,0,Millet flour porridge 
+food,69,30,"White rice (Oryza sativa), boiled "
+food,43,13,"Rice, white, type not specified, boiled "
+food,45,13,"Rice, white, type not specified, eaten alone "
+food,47,14,"Rice, white, type not specified, boiled "
+food,51,21,"Rice, white, type not specified, boiled  "
+food,52,19,"Rice, white, type not specified, boiled  "
+food,56,23,"Rice, white, type not specified, boiled  "
+food,69,26,"Rice, white, type not specified, boiled  "
+food,112,47,"Rice, white, type not specified, boiled  "
+food,41,16,"Long grain rice, boiled 5 min "
+food,55,22,"Gem long grain rice, boiled (Dainty Food Inc., Toronto, Canada)"
+food,56,24,"Long grain rice, boiled 25 min "
+food,57,23,"Gem long grain rice, boiled (Dainty Food Inc., Canada)"
+food,58,23,"Long grain rice, boiled 15 min"
+food,60,24,"Gem long grain rice, boiled (Dainty Food Inc., Canada)"
+food,60,24,"Gem long grain rice, boiled (Dainty Food Inc., Canada)"
+food,71,29,"Long grain, nonglutinous (non waxy) rice variety RD 21/23 (low amylose), boiled "
+food,51,19,"Rice, Cajun Style, Uncle Ben's® (Effem Foods Ltd., Canada)"
+food,55,20,"Rice, Garden Style, Uncle Ben's® (Effem Foods Ltd., Canada)"
+food,75,0,"Glutinous (waxy) rice, low-amylose, boiled "
+food,54,20,"Long Grain and Wild rice, Uncle Ben's®  (Effem Foods Ltd., Canada)"
+food,58,21,"Mexican Fast and Fancy rice, Uncle Ben's®  (Effem Foods Ltd., Canada)"
+food,57,18,Saskatchewan wild rice 
+food,17,7,"White rice, low-amylose, boiled"
+food,37,14,Bangladeshi white rice variety BR16 (28% amylose)
+food,39,15,"Bangladeshi white rice variety BR16, white, long-grain (27% amylose), boiled 17.5 min"
+food,54,22,"Japonica rice enriched with 3 g Sunfibre (Cyamoposis tetragonolobus) (soluble fiber), viscosity 1 (Taiyo Kagaku Co., Ltd, Japan)"
+food,54,22,"Japonica rice enriched with 5 g Sunfibre (Cyamoposis tetragonolobus) (soluble fiber), viscosity 1 (Taiyo Kagaku Co., Ltd, Japan)"
+food,61,26,"Milled (white), high amylose (IR42) rice, boiled 22 min "
+food,59,25,"Milled (white), high amylose (IR42) rice, boiled 22 min "
+food,61,26,"Milled (white), high amylose (IR42) rice, boiled 22 min "
+food,50,17,"Brown rice (Oryza Sativa), boiled"
+food,39,16,"Brown rice, high amylose (IR42) rice, boiled 30 min  "
+food,46,19,"Instant/puffed rice, white, boiled 1 min "
+food,48,17,Parboiled rice 
+food,72,26,Parboiled rice 
+food,45,16,"Converted, white parboiled rice, Uncle Ben's® (Effem Foods Ltd., Canada)"
+food,50,18,"Converted, white parboiled rice, long grain, boiled 20-30 min, Uncle Ben's® (Masterfoods USA)"
+food,39,14,"Parboiled rice, boiled 12 min"
+food,42,15,"Parboiled rice, boiled 12 min"
+food,43,15,"Parboiled rice, boiled 12 min"
+food,46,17,"Parboiled rice, boiled 12 min"
+food,38,14,"Parboiled rice, long grain, boiled 5 min"
+food,61,22,"Parboiled rice, long grain, boiled 10 min"
+food,47,17,"Parboiled rice, long grain, boiled 15 min "
+food,46,17,"Parboiled rice, long grain, boiled 25 min"
+food,99,0,"Parboiled rice, eaten as part of a traditional Indian meal"
+food,51,19,"Bangladeshi rice variety BR2, parboiled (12% amylose)"
+food,35,13,"Bangladeshi rice variety BR16, parboiled  (28% amylose)"
+food,32,12,"Bangladeshi rice variety BR16, traditionally parboiled (27% amylose)"
+food,27,11,"Bangladeshi rice variety BR16, pressure parboiled (27% amylose)"
+food,33,13,"Bangladeshi rice variety BR4, parboiled (27% amylose)"
+food,29,11,"Rye, whole kernels"
+food,34,13,"Rye, whole kernels, pressure cooked (15 psi) 30 min in 2 L water "
+food,39,15,"Rye, whole kernels "
+food,42,14,"Wheat, whole kernels "
+food,44,14,"Wheat, whole kernels, pressure cooked (15 psi) 30 min in 2 L water"
+food,48,16,"Wheat, whole kernels "
+food,63,24,"Wheat, type not specified"
+food,90,34,"Wheat, type not specified"
+food,55,6,"Semolina, roasted at 105°C then gelatinised with water"
+food,54,6,"Semolina, steamed and gelatinised"
+food,46,12,"Bulgur cracked wheat, boiled "
+food,46,12,"Bulgur cracked wheat, boiled in 800 mL water 20 min "
+food,46,12,"Bulgur cracked wheat, boiled "
+food,46,12,"Bulgur cracked wheat, boiled 20 min"
+food,53,14,"Bulgur cracked wheat, boiled 20 min "
+food,56,9,"Baked beans, canned haricot/navy beans in tomato sauce (Libby, McNeill & Libby, Chatham, Canada)"
+food,20,6,"Beans, dried, type not specified, boiled"
+food,50,15,"Black eyed beans/peas (Cowpeas), boiled "
+food,29,6,"Butter beans, dried, soaked, cooked 1.25 h"
+food,30,6,"Butter beans, dried, boiled + 5 g sucrose"
+food,31,6,"Butter beans, dried, boiled + 10 g sucrose"
+food,54,1,"Butter beans, dried, boiled + 15 g sucrose"
+food,31,9,"Chickpeas (Garbanzo beans, Bengal gram), dried, boiled "
+food,33,10,"Chickpeas (Garbanzo beans, Bengal gram), boiled "
+food,42,9,"Chickpeas (Garbanzo beans, Bengal gram), canned in brine (Lancia-Bravo Foods Ltd., Toronto, Canada)"
+food,41,7,"Chickpeas (Garbanzo beans, Bengal gram), curry, canned (Canasia Foods Ltd., Scarborough, Canada)"
+food,29,9,"Haricot/Navy beans, pressure cooked at 15 psi for 25 min (King Grains, Toronto, Canada)"
+food,30,9,"Haricot/Navy beans, dried, boiled"
+food,59,19,"Haricot/Navy beans, pressure cooked at15 psi  for 25 min (King Grains, Canada) "
+food,23,6,Kidney beans 
+food,23,6,"Kidney beans, dried, boiled "
+food,42,10,"Kidney beans, dried, boiled "
+food,46,11,Kidney beans 
+food,52,9,"Kidney beans, canned (Lancia-Bravo Foods Ltd., Canada)"
+food,28,5,"Lentils, type not specified"
+food,22,4,"Lentils, green, dried, boiled "
+food,30,5,"Lentils, green, dried, boiled "
+food,52,9,"Lentils, green, canned in brine (Lancia-Bravo Foods Ltd., Canada)"
+food,18,3,"Lentils, red, dried, boiled "
+food,21,4,"Lentils, red, dried, boiled"
+food,31,6,"Lentils, red, dried, boiled"
+food,32,6,"Lentils, red, dried, boiled "
+food,32,10,"Lima beans, baby, frozen, reheated in microwave oven (York, Canada Packers, Toronto, Canada)"
+food,31,6,"Marrowfat peas, dried, boiled "
+food,22,2,"Peas, dried, boiled "
+food,39,10,"Pinto beans, dried, boiled "
+food,45,10,"Pinto beans, canned in brine  (Lancia-Bravo Foods Ltd., Canada)"
+food,46,8,Romano beans
+food,32,6,"Split peas, yellow, boiled 20 min (Nupack, Mississauga, Canada)"
+food,53,23,"Boost®, vanilla flavor, weight management product (Mead Johnson, Evansville, Ind, USA)"
+food,59,21,"Boost High-Protein®, vanilla flavor, weight management product (Mead Johnson,  Evansville, Ind, USA)"
+food,73,26,Chocolate soya weight management drink
+food,89,40,"GatorPro®, chocolate flavor, weight management product (Gatorade, Chicago, IL, USA)"
+food,58,6,"Met-RX ®, vanilla, weight management product (Met-RX substrate Technology Inc., Irvine, CA, USA)"
+food,78,27,"Optifuel, weight management product (Twin Laboratories Inc, Ronkonkowa, NY, USA)"
+food,38,7,Fish fingers 
+food,65,31,"Kugel (Polish dish containing egg noodles, sugar,  cheese and raisins)"
+food,60,16,"Pizza, cheese (Pillsbury Canada Ltd., Toronto, Canada)"
+food,80,22,"Pizza, plain baked dough, served with parmesan cheese and tomato sauce"
+food,28,1,"Sausages, type not specified"
+food,73,55,"Stirfried vegetables with chicken and boiled white rice, home made"
+food,27,13,"White boiled rice, grilled beefburger, cheese, and butter"
+food,22,11,"White boiled rice, grilled beefburger, cheese and butter"
+food,59,25,Classic French baguette bread with 10 g butter and 2 slices of ham (25 g)
+food,59,28,White bread with butter
+food,42,12,White bread with Haricot/navy beans 
+food,54,16,White bread with Haricot/navy beans
+food,62,23,White bread with butter and skim milk cheese
+food,55,26,White bread with skim milk cheese 
+food,51,23,White/wholemeal wheat bread with peanut butter
+food,67,29,White/wholemeal wheat bread with peanut butter
+food,50,15,"Biosorb® drink, standard, nutritional support product (Nutricia N.V., Netherlands)"
+food,75,33,"Ensure™, vanilla flavor, nutritional support product (Abbott Laboratories, Columbus, Ohio, USA)"
+food,61,28,"Nutridrink® enteral formula (Nutricia N.V., Netherlands)"
+food,53,24,"Nutridrink Multi Fibre® enteral formula (Nutricia N.V., Netherlands)"
+food,13,1,Peanuts 
+food,23,2,Peanuts 
+food,47,19,"Instant noodles (Mr Noodle, Vancouver, Canada) "
+food,26,12,"Lungkow beanthread noodles (National Cereals, Oils & Foodstuffs, Qingdao & Guangdong, China)"
+food,45,20,"Mung bean noodles, boiled"
+food,51,0,"Imitation mung bean noodles, boiled "
+food,45,22,"Macaroni, plain, boiled 5 min (Lancia-Bravo Foods Ltd., Canada)"
+food,48,23,"Macaroni, plain, boiled "
+food,56,27,"Macaroni, boiled "
+food,64,33,"Macaroni and Cheese, boxed (Kraft General Foods Inc., Don Mills, Ontario, Canada)"
+food,45,0,"Rice noodles made from IR42 (high amylose) rice flour, boiled for 22 min "
+food,46,0,"Rice noodles made from IR42 (high amylose) rice flour, boiled for 22 min "
+food,58,23,"Rice vermicelli, Kongmoon (National Cereals,  Oils & Foodstuffs, China)"
+food,59,28,"Spaghetti, homemade, durum wheat, no monoglyceride, boiled 6 min "
+food,59,28,"Spaghetti, homemade, durum wheat, no monoglyceride, boiled 6 min "
+food,27,14,"Spaghetti, protein enriched, boiled 7 min (Catelli Plus, Catelli Ltd., Montreal, Canada) "
+food,27,14,"Spaghetti, protein enriched, boiled 7 min (Catelli Plus, Catelli Ltd., Montreal, Canada) "
+food,32,15,"Spaghetti, white, boiled 5 min (Lancia-Bravo Foods Ltd., Canada)"
+food,32,15,"Spaghetti, white, boiled 5 min (Lancia-Bravo Foods Ltd., Canada)"
+food,34,16,"Spaghetti, white, boiled 5 min "
+food,34,16,"Spaghetti, white, boiled 5 min "
+food,40,19,"Spaghetti, white, boiled 5 min "
+food,40,19,"Spaghetti, white, boiled 5 min "
+food,44,21,"Spaghetti, white, boiled 5 min "
+food,44,21,"Spaghetti, white, boiled 5 min "
+food,34,16,"Spaghetti, white, durum wheat, boiled 12 min "
+food,34,16,"Spaghetti, white, durum wheat, boiled 12 min "
+food,32,15,"Spaghetti, white, boiled 15 min (Lancia-Bravo Foods Ltd., Canada)"
+food,32,15,"Spaghetti, white, boiled 15 min (Lancia-Bravo Foods Ltd., Canada)"
+food,36,17,"Spaghetti, white, boiled 15 min (Lancia-Bravo Foods Ltd., Canada)"
+food,36,17,"Spaghetti, white, boiled 15 min (Lancia-Bravo Foods Ltd., Canada)"
+food,41,20,"Spaghetti, white, boiled 15 min "
+food,41,20,"Spaghetti, white, boiled 15 min "
+food,64,27,"Spaghetti, Durum wheat, boiled 20 min "
+food,64,27,"Spaghetti, Durum wheat, boiled 20 min "
+food,33,16,"Spaghetti, white, boiled"
+food,34,16,"Spaghetti, white, boiled, durum wheat (Catelli Ltd, Montreal, Canada)"
+food,34,16,"Spaghetti, white, boiled, durum wheat (Catelli Ltd, Montreal, Canada)"
+food,38,17,"Spaghetti, white, boiled"
+food,38,17,"Spaghetti, white, boiled"
+food,42,20,"Spaghetti, white, boiled"
+food,42,20,"Spaghetti, white, boiled"
+food,42,20,"Spaghetti, white, boiled"
+food,42,19,"Spaghetti, white, boiled"
+food,42,19,"Spaghetti, white, boiled"
+food,45,22,"Spaghetti, white, boiled"
+food,48,23,"Spaghetti, white, boiled"
+food,48,23,"Spaghetti, white, boiled"
+food,32,14,"Spaghetti, wholemeal, boiled "
+food,32,14,"Spaghetti, wholemeal, boiled "
+food,38,18,"Star Pastina, white, boiled 5 min  (Lancia-Bravo Foods Ltd., Canada) "
+food,50,10,"Tortellini, cheese (Stouffer, Nestlé, Don Mills, Canada) "
+food,57,0,"Wheat (egg) noodles, boiled "
+food,79,9,Broad beans
+food,44,18,"Ga Kenkey, prepared from fermented cornmeal  (Zea mays)"
+food,49,13,"Gari, roasted cassava dough (Manihot utilissima)"
+food,109,41,Maize meal porridge/gruel
+food,107,0,Millet flour porridge/gruel
+food,40,17,"White rice (Oryza sativa), boiled"
+food,61,9,Kibbeh saynieh (made with lamb and burghul)
+food,24,10,"Majadra (Syrian, lentils and rice)"
+food,58,17,"Moroccan couscous (stew of semolina, chickpeas, vegetables)"
+food,20,0,"Tarhana soup (wheat flour, yoghurt, tomato, green pepper)"
+food,26,12,"Lungkow beanthread noodles (National Cereals, Oils & Foodstuffs, Qingdao & Guangdong, China)"
+food,58,23,"Rice vermicelli, Kongmoon (National Cereals, China)"
+food,73,55,"Stirfried vegetables, chicken and rice, home made "
+food,97,18,"Amaranth (Amaranthus esculentum), popped, eaten with milk and non-nutritive sweetener"
+food,90,58,Appam (thin pancake made from fermented rice flour batter with tender coconut) eaten with Bengal gram curry
+food,55,28,"Bajra (Penniseteum typhoideum),eaten as roasted bread made from bajra flour"
+food,67,34,Bajra (Penniseteum typhoideum)
+food,37,14,Barley (Hordeum vulgare)
+food,66,20,"Chapatti, amaranth-wheat (25:75) composite flour, served with bottle gourd and tomato curry"
+food,76,23,"Chapatti, amaranth-wheat (50:50) composite flour, served with bottle gourd amd tomato curry "
+food,27,0,"Chapatti, baisen"
+food,67,0,"Chapatti, bajra (Pennisetum typhoideum) "
+food,37,0,"Chapatti, barley"
+food,64,0,"Chapatti, maize (Zea mays) "
+food,66,21,"Chapatti, wheat, served with bottle gourd and tomato curry"
+food,81,40,"Chapatti, wheat flour, thin, with green gram (Phaseolus aureus) dhal"
+food,35,7,"Dhokla, leavened, fermented, steamed cake; dehusked chickpea and wheat semolina "
+food,31,9,"Dhokla, leavened, fermented, steamed cake; dehusked chickpea and wheat semolina "
+food,77,30,"Dosai (parboiled and raw rice, soaked, ground, fermented and fried) with chutney"
+food,57,28,"Green gram, whole with varagu (Paspalum scorbiculatum), pressure cooked "
+food,78,39,"Green gram dhal with varagu, pressure cooked"
+food,86,52,Idiappam (steamed rice flour dough with tender coconut) eaten with Bengal gram curry
+food,77,40,"Idli (parboiled and raw rice + black dhal, soaked, ground, fermented, steamed) with chutney"
+food,77,38,"Jowar, roasted bread made from Jowar flour  (Sorghum vulgare) "
+food,24,7,"Laddu (popped amaranth, foxtail millet, roasted legume powder, fenugreek seeds) in hot sweet syrup"
+food,29,9,"Laddu (popped amaranth, foxtail millet, roasted legume powder, fenugreek seeds) in hot sweet syrup"
+food,84,42,Millet/Ragi (Eleucine coracana)
+food,104,52,Millet/Ragi (Eleucine coracana) flour eaten as roasted bread
+food,90,47,"Pongal (rice and roasted green gram dhal, pressure cooked)"
+food,82,34,Poori (deep-fried wheat flour dough) with potato palya (mashed potato)
+food,79,58,"Puttu (rice flour, steamed with tender coconut)  eaten with Bengal gram curry"
+food,69,26,"Rice (Oryza Sativa), boiled served with bottle gourd and tomato curry"
+food,55,27,"Semolina (Triticum aestivum), steamed"
+food,76,38,"Semolina (Triticum aestivum), pre-roasted"
+food,46,23,Semolina (Triticum aestivum) with fermented black gram dhal (Phaseolus mungo)
+food,62,31,Semolina (Triticum aestivum) with fermented green gram dhal (Phaseolus aureus)
+food,54,27,Semolina (Triticum aestivum) with fermented bengal gram dhal (Cicer arietum)
+food,68,34,"Varagu (Paspalum scorbiculatum), pressure cooked 15lb 12-15 min"
+food,67,28,"Upittu (roasted semolina and onions, cooked in water)"
+food,18,6,"Uppuma kedgeree (millet, legumes, fenugreek seeds;  roasted and cooked in water)"
+food,19,6,"Uppuma kedgeree (millet, legumes, fenugreek seeds;  roasted and cooked in water)"
+food,68,34,"Varagu (Paspalum scorbiculatum), pressure cooked 15lb 12-15 min"
+food,61,32,"Melawach (dough made from white wheat flour and butter, fried)"
+food,71,38,Melawach 
+food,31,16,Melawach + 15 g locust bean (Ceratonia siliqua) fiber (soluble)
+food,59,31,Melawach + 15 g maize cob fiber (insoluble)
+food,72,38,Melawach + 15 g lupin (Lupinus albus) fiber
+food,25,1,Mesquite cakes (Prosopis velutina)
+food,30,7,Black beans
+food,38,9,Brown beans
+food,37,0,"Burrito (made from scrambled eggs, tomato, onions, vegeatble oil, boiled pinto beans and flour tortilla)"
+food,29,0,"Burrito (made from scrambled eggs, tomato, onions, vegetable oil, boiled pinto beans and flour tortilla) consumed with nopales (prickly pear cactus)"
+food,51,0,"Chilaquiles (casserole made from corn tortilla, vegetable oil, tomato sauce, cheese, boiled pinto beans)"
+food,35,0,"Chilaquiles (casserole made from corn tortilla, vegetable oil, tomato sauce, cheese, boiled pinto beans), consumed with nopales (prickly pear cactus) "
+food,7,0,Nopales (prickly pear cactus)
+food,36,0,"Quesadillas (made from low-fat cheese, avocado, boiled pinto beans and flour tortilla)"
+food,25,0,"Quesadillas (made from low-fat cheese, avocado, boiled pinto beans and flour tortilla) consumed with nopales (prickly pear cactus)"
+food,25,6,"Nutrimeal™, meal replacement drink, all flavours (Usana Australia, Baulkham Hills, Australia) (2008)"
+food,28,7,"Chocolate Whey Nutrimeal™, meal replacement drink (Usana Australia, Baulkham Hills, Australia) (2008)"
+food,80,107,Fried rice in Yangzhou-style
+food,69,24,"Fried fritter (Ocean Empire International Ltd, Hong Kong)"
+food,61,23,"""Mai-Lai"" cake"
+food,23,1,Double Chocolate Isowhey Complete meal replacement beverage (FIT Bioceuticals Pty Ltd)
+food,46,14,"Tuna fish bun (Maxim's MX, Hong Kong)"
+food,30,2,French Vanilla Isowhey Complete meal replacement beverage (FIT Bioceuticals Pty Ltd)
+food,83,89,"Sticky rice wrapped in lotus leaf (Maxim's MX, Hong Kong)"
+food,30,2,Strawberries & Cream Isowhey Complete meal replacement beverage (FIT Bioceuticals Pty Ltd)
+food,55,9,"Baked barbecued Pork Puff (Hoixe Cake Shop, Hong Kong)"
+food,89,39,Steamed glutinous rice roll
+food,65,22,"""Pineapple"" bun (Hoixe Cake Shop, Hong Kong)"
+food,72,25,Jam and peanut butter toast
+food,66,80,Fried rice noodles with sliced beef
+food,45,10,"Egg tart (Maxim's MX, Hong Kong)"
+food,90,36,Plain steamed vermicelli roll
+food,69,17,"Barbecue pork bun (Maxim's MX, Hong Kong)"
+food,56,29,"Moon cakes (Kee Wah Bakery Shop, Hong Kong)"
+food,61,58,"Glutinous rice ball, boiled (Lee Chun brand, Lee Chun Food Ltd, Hong Kong)"
+food,67,14,Instant sweet milky bun
+food,72,10,"Frozen sweet milky bun, steamed (AMOY brand, Amoy Food Ltd, Hong Kong)"
+food,54,47,Fried vermicelli in Singapore-style
+food,69,96,"Salted meat rice dumpling (Ocean Empire International Ltd, Hong Kong)"
+food,50,10,Spring roll
+food,31,5,"Linguine, fresh (Hollywood Foods More Than Pasta, Canada)"
+food,34,6,"Goodness Superfoods FibreBoost Sprinkles (Popina Pty Ltd, Australia)"
+food,33,16,"Spaghetti, white, boiled"
+food,48,16,Mighty Rice
+food,54,20,Low GI Brown Long Grain rice
+food,52,24,Maharani Parboiled Long Grain Basmati rice
+food,54,29,SunRice Low GI White Rice
+food,54,27,SunRice Low GI Brown Rice
+food,52,19,SunRice Steamed Low GI White Rice
+food,53,24,Coles Simply Gluten Free Quinoa Cups
+food,49,18,Coles Simply Gluten Free Mexican Style Quinoa and Brown Rice Cups
+food,56,6,Birds Eye Hash Browns
+food,52,20,Blu Gourmet Pearl Couscous
+food,53,16,Blu Gourmet Wholemeal Pearl Couscous
+food,50,12,Carman's Classic Fruit & Nut Muesli
+food,45,9,Carman's Original Fruit Free Muesli
+food,48,11,Carman's Natural Bircher Muesli
+food,49,11,Carman's Deluxe Gluten Free Muesli
+food,22,3,Herman Brot Lower Carb Pasta
+food,43,20,"Penne pasta, consumed with 10 g margarine"
+food,32,3,Herman Brot Red Fruits Protein Muesli
+food,30,2,Herman Brot Peanut Candy Protein Muesli
+food,35,3,Herman Brot Chocolate Protein Muesli
+food,42,11,Viplus Diabetic formula (Vanilla Flavour) prepared with water
+food,53,32,Lean Cuisine Steam Japanese Gyoza with Udon Noodles
+food,44,23,Lean Cuisine Steam Indian Chicken Tikka Masala
+food,48,23,Lean Cuisine Steam Meatball Arrabiata
+food,47,25,Lean Cuisine Steam Tortellini with Beef & Parmesan in a Creamy Sundried Tomato Sauce
+food,43,24,Lean Cuisine Steam Indian Style Butter Chicken with Rice
+food,51,24,Lean Cuisine Steam Cheese & Cracked Pepper Chicken with Pasta
+food,41,18,Lean Cuisine Steam Atlantic Salmon with Pasta
+food,38,21,Lean Cuisine Steam Sundried Tomato Chicken with Pasta
+food,40,19,Lean Cuisine Steam Slow Cooked Beef
+food,44,24,Lean Cuisine Steam Satay Beef with Rice
+food,45,24,Lean Cuisine Steam Thai Red Chicken Curry with Rice
+food,29,7,"McKenzie's Super Blend Fibre (Greenwheat Freekeh, Lentils & Beans), freshly prepared according to manufacturer's instructions"
+food,36,8,"McKenzie's Super Blend Protein (Lentils, Quinoa & Beans), freshly prepared according to manufacturer's instructions"
+food,57,19,"Teff, freshly prepared according to manufacturer's instructions"
+food,54,18,"Red Quinoa, freshly prepared according to manufacturer's instructions"
+food,50,17,"White Quinoa, freshly prepared according to manufacturer's instructions"
+food,65,17,"Jackfruit365 Green Jackfruit, prepared as porridge with water"
+food,27,4,"Beta Flour (tested prepared with water, cooked as steamed dumplings)"
+food,53,15,Meebags Steel Cut Oats
+food,48,7,GluCare Gold beverage powder prepared with water
+food,49,21,DGI SunRice Low GI Rice
+food,46,19,70%+ Black Highland Barley Noodles
+food,36,7,"HINEX Diabetes Care Vanilla powder, prepared with water"
+food,56,22,"Youtang Rice Flour, prepared with boiled water"
