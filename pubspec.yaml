@@ -38,10 +38,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   custom_clippers: ^2.0.0
   syncfusion_flutter_charts: ^25.1.41+2
-  fl_chart: ^0.68.0 
+  fl_chart: 0.64.0 
   flutter_charts: ^0.5.2
   chart_sparkline: ^1.0.15+1
-  http: ^1.2.1
   sqflite: ^2.0.0
   path_provider: ^2.0.2
   flutter_screenutil: ^5.9.0

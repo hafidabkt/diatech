@@ -1,20 +1,31 @@
 import 'package:flutter/material.dart';
-import 'package:healthcare/screens/welcome_screen.dart';
+import 'package:healthcare/screens/onboard.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 
+import 'configure.dart';
 
-void main() {
-  runApp(const MyApp());
+Future main() async {
+  await configureApp();
+  runApp(MyApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+final GlobalKey<ScaffoldMessengerState> scaffoldMessengerKey =
+    GlobalKey<ScaffoldMessengerState>();
 
-  // This widget is the root of your application.
+final supabase = Supabase.instance.client;
+
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      theme: ThemeData(
+        fontFamily: 'YatraOne',
+      ),
       debugShowCheckedModeBanner: false,
-      home: WelcomeScreen(),
+      scaffoldMessengerKey: scaffoldMessengerKey,
+      home: OnboardScreen(),
     );
   }
 }
