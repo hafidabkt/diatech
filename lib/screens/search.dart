@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-// import 'package:http/http.dart' as http;
+import 'package:http/http.dart' as http; // Import the http package
 import 'dart:convert';
 import 'popup_GI_GL.dart';
 import 'listfood.dart';
@@ -22,21 +22,21 @@ class _FoodCategoryScreenState extends State<FoodCategoryScreen> {
       _isLoading = true;
     });
 
-    // final response =
-    //     await http.get(Uri.parse('http://127.0.0.1:8000/search?query=$query'));
-    // print(response);
-    // if (response.statusCode == 200) {
-    //   setState(() {
-    //     _searchResults = json.decode(response.body);
-    //     _isLoading = false;
-    //   });
-    // } else {
-    //   setState(() {
-    //     _searchResults = [];
-    //     _isLoading = false;
-    //   });
-    //   print('Error: ${response.statusCode}');
-    // }
+    final response =
+        await http.get(Uri.parse('http://127.0.0.1:8000/search?query=$query'));
+    if (response.statusCode == 200) {
+      setState(() {
+        _searchResults = json.decode(response.body);
+        print(response.body);
+        _isLoading = false;
+      });
+    } else {
+      setState(() {
+        _searchResults = [];
+        _isLoading = false;
+      });
+      print('Error: ${response.statusCode}');
+    }
   }
 
   @override
@@ -54,6 +54,11 @@ class _FoodCategoryScreenState extends State<FoodCategoryScreen> {
                 decoration: InputDecoration(
                   hintText: 'Search...',
                 ),
+                onChanged: (value) {
+                  setState(() {
+                    searchText = value;
+                  });
+                },
               ),
             ),
             IconButton(

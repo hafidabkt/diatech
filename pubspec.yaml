@@ -37,6 +37,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   custom_clippers: ^2.0.0
+  http: ^0.13.3
   syncfusion_flutter_charts: ^25.1.41+2
   fl_chart: 0.64.0 
   flutter_charts: ^0.5.2

@@ -1,18 +1,17 @@
-from fastapi import FastAPI, HTTPException
-from fastapi.responses import JSONResponse
+from flask import Flask, request, jsonify, abort
 
-app = FastAPI()
+app = Flask(__name__)
 
-@app.get("/search")
-async def search(query: str = None):
+@app.route('/search', methods=['GET'])
+def search():
+    query = request.args.get('query')
     if not query:
-        raise HTTPException(status_code=400, detail="Query parameter is missing")
+        abort(400, description="Query parameter is missing")
     
     # Perform any operation with the query here (e.g., logging, search, etc.)
     
     # Respond with a thank you message
-    return JSONResponse(content={"message": "Thank you"})
+    return jsonify({"message": "Thank you"})
 
 if __name__ == '__main__':
-    import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    app.run(host='127.0.0.1', port=8000)
