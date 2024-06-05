@@ -1,5 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'dart:convert';
 import 'popup_GI_GL.dart';
 import 'listfood.dart';
 import 'color.dart';
@@ -7,26 +9,47 @@ import '../class/categories.dart';
 
 class FoodCategoryScreen extends StatefulWidget {
   @override
-  State<FoodCategoryScreen> createState() => _FoodCategoryScreen();
+  State<FoodCategoryScreen> createState() => _FoodCategoryScreenState();
 }
 
-class _FoodCategoryScreen extends State<FoodCategoryScreen> {
+class _FoodCategoryScreenState extends State<FoodCategoryScreen> {
   String searchText = '';
+  bool _isLoading = false;
+  List<dynamic> _searchResults = [];
+
+  Future<void> _search(String query) async {
+    setState(() {
+      _isLoading = true;
+    });
+
+    final response =
+        await http.get(Uri.parse('http://127.0.0.1:8000/search?query=$query'));
+    print(response);
+    if (response.statusCode == 200) {
+      setState(() {
+        _searchResults = json.decode(response.body);
+        _isLoading = false;
+      });
+    } else {
+      setState(() {
+        _searchResults = [];
+        _isLoading = false;
+      });
+      print('Error: ${response.statusCode}');
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor:
-            blue, // Adjust the color to fit the search screen theme
+        backgroundColor: blue,
         title: Row(
           children: [
             Expanded(
               child: TextField(
                 onSubmitted: (value) {
-                  setState(() {
-                    searchText = value;
-                  });
+                  _search(value);
                 },
                 decoration: InputDecoration(
                   hintText: 'Search...',
@@ -36,7 +59,7 @@ class _FoodCategoryScreen extends State<FoodCategoryScreen> {
             IconButton(
               icon: Icon(Icons.search),
               onPressed: () {
-                // Handle search button tap
+                _search(searchText);
               },
             ),
           ],
@@ -56,17 +79,31 @@ class _FoodCategoryScreen extends State<FoodCategoryScreen> {
             Container(
               height: 400,
               child: Center(
-                child: GridView.builder(
-                  scrollDirection: Axis.horizontal,
-                  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 3,
-                    crossAxisSpacing: 8.0,
-                  ),
-                  itemCount: categories.length,
-                  itemBuilder: (BuildContext context, int index) {
-                    return buildCategoryContainer(category: categories[index]);
-                  },
-                ),
+                child: _isLoading
+                    ? CircularProgressIndicator()
+                    : _searchResults.isEmpty
+                        ? GridView.builder(
+                            scrollDirection: Axis.horizontal,
+                            gridDelegate:
+                                SliverGridDelegateWithFixedCrossAxisCount(
+                              crossAxisCount: 3,
+                              crossAxisSpacing: 8.0,
+                            ),
+                            itemCount: categories.length,
+                            itemBuilder: (BuildContext context, int index) {
+                              return buildCategoryContainer(
+                                  category: categories[index]);
+                            },
+                          )
+                        : ListView.builder(
+                            itemCount: _searchResults.length,
+                            itemBuilder: (context, index) {
+                              final result = _searchResults[index];
+                              return ListTile(
+                                title: Text(result['name']),
+                              );
+                            },
+                          ),
               ),
             ),
           ],
@@ -91,8 +128,8 @@ class _FoodCategoryScreen extends State<FoodCategoryScreen> {
             child: Text(
               'Calculate GI GL Index',
               style: TextStyle(
-                color: Colors.white, // Text color
-                fontWeight: FontWeight.bold, // Bold text
+                color: Colors.white,
+                fontWeight: FontWeight.bold,
               ),
             ),
             backgroundColor: blue,
@@ -110,7 +147,10 @@ class _FoodCategoryScreen extends State<FoodCategoryScreen> {
         onTap: () {
           Navigator.push(
             context,
-            MaterialPageRoute(builder: (context) => FoodListScreen()),
+            MaterialPageRoute(
+                builder: (context) => FoodListScreen(
+                      category: category.name,
+                    )),
           );
         },
         child: Container(

@@ -4,8 +4,23 @@ import 'color.dart';
 
 class DonutChart extends StatefulWidget {
   final String glIndex;
+  final double sugar;
+  final double protein;
+  final double carbs;
+  final double fiber;
+  final double fat;
+  final double acid;
 
-  const DonutChart({Key? key, required this.glIndex});
+  const DonutChart({
+    Key? key,
+    required this.glIndex,
+    required this.sugar,
+    required this.protein,
+    required this.carbs,
+    required this.fiber,
+    required this.fat,
+    required this.acid,
+  }) : super(key: key);
 
   @override
   State<DonutChart> createState() => _DonutChartState();
@@ -14,7 +29,13 @@ class DonutChart extends StatefulWidget {
 class _DonutChartState extends State<DonutChart> {
   @override
   Widget build(BuildContext context) {
-    final glIndex = widget.glIndex; // Access glIndex from widget
+    final glIndex = widget.glIndex;
+    final sugar = widget.sugar;
+    final protein = widget.protein;
+    final carbs = widget.carbs;
+    final fiber = widget.fiber;
+    final fat = widget.fat;
+    final acid = widget.acid;
 
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
@@ -30,37 +51,37 @@ class _DonutChartState extends State<DonutChart> {
                   centerSpaceRadius: 80,
                   sections: [
                     PieChartSectionData(
-                      value: 20,
+                      value: sugar,
                       color: pink,
                       radius: 60,
                       showTitle: false,
                     ),
                     PieChartSectionData(
-                      value: 25,
+                      value: protein,
                       color: yellow,
                       radius: 70,
                       showTitle: false,
                     ),
                     PieChartSectionData(
-                      value: 30,
+                      value: carbs,
                       color: brown,
                       radius: 80,
                       showTitle: false,
                     ),
                     PieChartSectionData(
-                      value: 15,
+                      value: fiber,
                       color: green,
                       radius: 90,
                       showTitle: false,
                     ),
                     PieChartSectionData(
-                      value: 5,
+                      value: fat,
                       color: orange,
                       radius: 100,
                       showTitle: false,
                     ),
                     PieChartSectionData(
-                      value: 5,
+                      value: acid,
                       color: blue,
                       radius: 110,
                       showTitle: false,
@@ -96,7 +117,7 @@ class _DonutChartState extends State<DonutChart> {
                               ? Color.fromARGB(255, 200, 250, 144)
                               : glIndex == 'Moderate'
                                   ? Colors.orange
-                                  : glIndex == 'Poor'
+                                  : glIndex == 'Bad'
                                       ? pink
                                       : Colors.red,
                         ),
@@ -112,13 +133,13 @@ class _DonutChartState extends State<DonutChart> {
                           ),
                         ),
                       ),
-                    )
+                    ),
                   ],
                 ),
-              )
+              ),
             ],
           ),
-        )
+        ),
       ],
     );
   }

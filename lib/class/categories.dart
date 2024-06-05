@@ -30,6 +30,7 @@ final List<Category> categories = [
   Category(name: 'Vegetables', imageUrl: 'images/vegi.png'),
   Category(name: 'Cheese', imageUrl: 'images/cheese.png'),
   Category(name: 'My Fridge', imageUrl: 'images/myfridge.png'),
+  Category(name: 'Bread', imageUrl: 'images/bread.png'),
   Category(name: 'Drinks', imageUrl: 'images/drinks.png'),
   Category(name: 'Sweet', imageUrl: 'images/sweet.png'),
 ];

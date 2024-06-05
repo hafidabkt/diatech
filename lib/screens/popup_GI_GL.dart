@@ -3,9 +3,6 @@ import 'donut_chart.dart';
 import 'package:flutter/services.dart';
 import 'color.dart';
 
-
-
-
 class GLIndexScreen extends StatefulWidget {
   @override
   _GLIndexScreenState createState() => _GLIndexScreenState();
@@ -15,28 +12,24 @@ class _GLIndexScreenState extends State<GLIndexScreen> {
   double sugar = 0.0;
   double protein = 0.0;
   double carbs = 0.0;
+  double fiber = 0.0;
+  double fat = 0.0;
+  double acid = 0.0;
   String glIndex = '';
-  bool showChart = false; // Flag to control chart visibility
+  bool showChart = false;
 
-  // Function to calculate the GL index
   void calculateGLIndex() {
     double gl = (sugar + protein) * (carbs / 100) / 100;
-    if (gl <= 10) {
-      setState(() {
+    setState(() {
+      if (gl <= 10) {
         glIndex = 'Good';
-        showChart = true; // Set flag to true to show the chart
-      });
-    } else if (gl <= 20) {
-      setState(() {
+      } else if (gl <= 20) {
         glIndex = 'Moderate';
-        showChart = true; // Set flag to true to show the chart
-      });
-    } else {
-      setState(() {
+      } else {
         glIndex = 'Bad';
-        showChart = true; // Set flag to true to show the chart
-      });
-    }
+      }
+      showChart = true;
+    });
   }
 
   @override
@@ -101,30 +94,61 @@ class _GLIndexScreenState extends State<GLIndexScreen> {
                         });
                       },
                     ),
-                    SizedBox(height: 80),
-                    ElevatedButton(
-                      onPressed: () {
-                        calculateGLIndex();
+                    SizedBox(height: 20),
+                    TextFormField(
+                      decoration: InputDecoration(labelText: 'Grams of Fiber'),
+                      keyboardType: TextInputType.number,
+                      inputFormatters: [FilteringTextInputFormatter.allow(RegExp(r'[0-9.]'))],
+                      onChanged: (value) {
+                        setState(() {
+                          fiber = double.tryParse(value) ?? 0.0;
+                        });
                       },
+                    ),
+                    SizedBox(height: 20),
+                    TextFormField(
+                      decoration: InputDecoration(labelText: 'Grams of Fat'),
+                      keyboardType: TextInputType.number,
+                      inputFormatters: [FilteringTextInputFormatter.allow(RegExp(r'[0-9.]'))],
+                      onChanged: (value) {
+                        setState(() {
+                          fat = double.tryParse(value) ?? 0.0;
+                        });
+                      },
+                    ),
+                    SizedBox(height: 20),
+                    TextFormField(
+                      decoration: InputDecoration(labelText: 'Grams of Acid'),
+                      keyboardType: TextInputType.number,
+                      inputFormatters: [FilteringTextInputFormatter.allow(RegExp(r'[0-9.]'))],
+                      onChanged: (value) {
+                        setState(() {
+                          acid = double.tryParse(value) ?? 0.0;
+                        });
+                      },
+                    ),
+                    SizedBox(height: 20),
+                    ElevatedButton(
+                      onPressed: calculateGLIndex,
                       style: ButtonStyle(
                         shape: MaterialStateProperty.all<RoundedRectangleBorder>(
                           RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(8.0), // small radius
+                            borderRadius: BorderRadius.circular(8.0),
                           ),
                         ),
                         backgroundColor: MaterialStateColor.resolveWith((states) {
                           if (states.contains(MaterialState.pressed)) {
-                            return brown; // color when pressed
+                            return brown;
                           } else if (states.contains(MaterialState.hovered)) {
-                            return green; // color when hovered
+                            return green;
                           }
-                          return blue; // default color
+                          return blue;
                         }),
                       ),
                       child: Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Text(
-                          'GL&GI',
+                          'Calculate GL&GI',
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                             color: Colors.white,
@@ -138,140 +162,34 @@ class _GLIndexScreenState extends State<GLIndexScreen> {
               ),
             ),
             Visibility(
-              visible: showChart, // Only show the chart if the flag is true
+              visible: showChart,
               child: Column(
                 children: [
-                  DonutChart(glIndex: glIndex),
-                  SizedBox(height: 100,),
+                  DonutChart(
+                    glIndex: glIndex,
+                    sugar: sugar,
+                    protein: protein,
+                    carbs: carbs,
+                    fiber: fiber,
+                    fat: fat,
+                    acid: acid,
+                  ),
+                  SizedBox(height: 80),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Row(
-                        children: [
-                          Container(
-                            width: 20,
-                            height: 20,
-                            decoration: BoxDecoration(
-                              color: orange,
-                              shape: BoxShape.circle,
-                            ),
-                          ),
-                          SizedBox(width: 8),
-                          Text(
-                            'Sugar',
-                            style: TextStyle(
-                              fontSize: 16,
-                              color: Colors.grey,
-                            ),
-                          ),
-                        ],
-                      ),
-                      Row(
-                        children: [
-                          Container(
-                            width: 20,
-                            height: 20,
-                            decoration: BoxDecoration(
-                              color: yellow,
-                              shape: BoxShape.circle,
-                            ),
-                          ),
-                          SizedBox(width: 8),
-                          Text(
-                            'Carbs',
-                            style: TextStyle(
-                              fontSize: 16,
-                              color: Colors.grey,
-                            ),
-                          ),
-                        ],
-                      ),
-                      Row(
-                        children: [
-                          Container(
-                            width: 20,
-                            height: 20,
-                            decoration: BoxDecoration(
-                              color: blue,
-                              shape: BoxShape.circle,
-                            ),
-                          ),
-                          SizedBox(width: 8),
-                          Text(
-                            'Sugar',
-                            style: TextStyle(
-                              fontSize: 16,
-                              color: Colors.grey,
-                            ),
-                          ),
-                        ],
-                      ),
+                      buildLegendItem(color: orange, text: 'Sugar'),
+                      buildLegendItem(color: yellow, text: 'Carbs'),
+                      buildLegendItem(color: blue, text: 'Protein'),
                     ],
                   ),
                   SizedBox(height: 20),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Row(
-                        children: [
-                          Container(
-                            width: 20,
-                            height: 20,
-                            decoration: BoxDecoration(
-                              color: green,
-                              shape: BoxShape.circle,
-                            ),
-                          ),
-                          SizedBox(width: 8),
-                          Text(
-                            'Protein',
-                            style: TextStyle(
-                              fontSize: 16,
-                              color: Colors.grey,
-                            ),
-                          ),
-                        ],
-                      ),
-                      Row(
-                        children: [
-                          Container(
-                            width: 20,
-                            height: 20,
-                            decoration: BoxDecoration(
-                              color: brown,
-                              shape: BoxShape.circle,
-                            ),
-                          ),
-                          SizedBox(width: 8),
-                          Text(
-                            'Protein',
-                            style: TextStyle(
-                              fontSize: 16,
-                              color: Colors.grey,
-                            ),
-                          ),
-                        ],
-                      ),
-                      Row(
-                        children: [
-                          Container(
-                            width: 20,
-                            height: 20,
-                            decoration: BoxDecoration(
-                              color: pink,
-                              shape: BoxShape.circle,
-                            ),
-                          ),
-                          SizedBox(width: 8),
-                          Text(
-                            'Sugar',
-                            style: TextStyle(
-                              fontSize: 16,
-                              color: Colors.grey,
-                            ),
-                          ),
-                        ],
-                      ),
+                      buildLegendItem(color: green, text: 'Fiber'),
+                      buildLegendItem(color: brown, text: 'Fat'),
+                      buildLegendItem(color: pink, text: 'Acid'),
                     ],
                   ),
                   SizedBox(height: 40),
@@ -284,16 +202,16 @@ class _GLIndexScreenState extends State<GLIndexScreen> {
                     style: ButtonStyle(
                       shape: MaterialStateProperty.all<RoundedRectangleBorder>(
                         RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(8.0), // small radius
+                          borderRadius: BorderRadius.circular(8.0),
                         ),
                       ),
                       backgroundColor: MaterialStateColor.resolveWith((states) {
                         if (states.contains(MaterialState.pressed)) {
-                          return brown; // color when pressed
+                          return brown;
                         } else if (states.contains(MaterialState.hovered)) {
-                          return green; // color when hovered
+                          return green;
                         }
-                        return blue; // default color
+                        return blue;
                       }),
                     ),
                     child: Padding(
@@ -313,6 +231,29 @@ class _GLIndexScreenState extends State<GLIndexScreen> {
           ],
         ),
       ),
+    );
+  }
+
+  Widget buildLegendItem({required Color color, required String text}) {
+    return Row(
+      children: [
+        Container(
+          width: 20,
+          height: 20,
+          decoration: BoxDecoration(
+            color: color,
+            shape: BoxShape.circle,
+          ),
+        ),
+        SizedBox(width: 8),
+        Text(
+          text,
+          style: TextStyle(
+            fontSize: 16,
+            color: Colors.grey,
+          ),
+        ),
+      ],
     );
   }
 }
