@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:healthcare/screens/onboard.dart';
+import 'package:healthcare/screens/welcome_screen.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 import 'configure.dart';
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       scaffoldMessengerKey: scaffoldMessengerKey,
-      home: OnboardScreen(),
+      home: WelcomeScreen(),
     );
   }
 }

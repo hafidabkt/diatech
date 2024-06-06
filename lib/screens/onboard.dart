@@ -153,7 +153,7 @@ class _OnboardScreenState extends State<OnboardScreen> {
                       fontWeight: FontWeight.w700),
                 ),
                 style: ElevatedButton.styleFrom(
-                  primary: lightgreenshede1,
+                  // primary: lightgreenshede1,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(20.0),
                   ),

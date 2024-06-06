@@ -28,7 +28,7 @@ class SettingScreen extends StatelessWidget {
                   backgroundImage: AssetImage("images/doctor1.jpg"),
                 ),
                 title: Text(
-                  "Dear Programmer",
+                  me.name,
                   style: TextStyle(
                     fontWeight: FontWeight.w500,
                     fontSize: 25,

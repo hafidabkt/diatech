@@ -54,7 +54,7 @@ dependencies:
   provider: ^6.1.1
   socket_io_client: ^2.0.0
   postgrest: ^2.0.1
-  csv: ^6.0.0
+  csv: ^5.0.0
   
 
 dev_dependencies:

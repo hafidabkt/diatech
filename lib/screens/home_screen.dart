@@ -20,10 +20,10 @@ class _HomeScreenState extends State<HomeScreen> {
     "images/four.jpg",
   ];
   final List<String> doctors = [
-    "images/doctor1.jpg",
-    "images/doctor.jpg",
-    "images/doctor.jpg",
-    "images/doctor.jpg",
+    "doctor1.jpg",
+    "doctor2.jpg",
+    "doctor3.jpg",
+    "doctor4.jpg",
   ];
   final TextEditingController _controller = TextEditingController();
   bool submit = false;
@@ -191,7 +191,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         children: [
                           CircleAvatar(
                             radius: 35,
-                            backgroundImage: AssetImage("images/${imgs[index]}"),
+                            backgroundImage: AssetImage("images/${doctors[index]}"),
                           ),
                           const Text(
                             "Dr. Doctor Name",

@@ -42,7 +42,7 @@ class AppointmentScreen extends StatelessWidget {
                         ),
                         SizedBox(height: 15),
                         Text(
-                          "Dr. Doctor Name",
+                          "Dr. Zetouni",
                           style: TextStyle(
                             fontSize: 23,
                             fontWeight: FontWeight.w500,
@@ -51,7 +51,7 @@ class AppointmentScreen extends StatelessWidget {
                         ),
                         SizedBox(height: 5),
                         Text(
-                          "Therapist",
+                          "Nutritionniste",
                           style: TextStyle(
                             color: Colors.white60,
                             fontWeight: FontWeight.bold,
@@ -90,7 +90,7 @@ class AppointmentScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 5),
                   Text(
-                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                    '''A former doctor practicing the job for 15 years, with experince working side to side with diabets patient''',
                     style: TextStyle(fontSize: 16, color: Colors.black54),
                   ),
                   SizedBox(height: 10),
@@ -115,7 +115,7 @@ class AppointmentScreen extends StatelessWidget {
                       ),
                     ),
                     title: Text(
-                      "New York, Medical Center",
+                      "Oran, Bir El Djir",
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                       ),

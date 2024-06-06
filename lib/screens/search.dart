@@ -6,6 +6,7 @@ import 'popup_GI_GL.dart';
 import 'listfood.dart';
 import 'color.dart';
 import '../class/categories.dart';
+import '../test.dart'; // Import the PhoneticSimilarityPage class
 
 class FoodCategoryScreen extends StatefulWidget {
   @override
@@ -21,22 +22,17 @@ class _FoodCategoryScreenState extends State<FoodCategoryScreen> {
     setState(() {
       _isLoading = true;
     });
+    setState(() {
+      _isLoading = false;
+                Navigator.push(
+            context,
+            MaterialPageRoute(
+                builder: (context) => PhoneticSimilarityPage (
+                      reference: searchText,
+                    )),
+          );
 
-    final response =
-        await http.get(Uri.parse('http://127.0.0.1:8000/search?query=$query'));
-    if (response.statusCode == 200) {
-      setState(() {
-        _searchResults = json.decode(response.body);
-        print(response.body);
-        _isLoading = false;
-      });
-    } else {
-      setState(() {
-        _searchResults = [];
-        _isLoading = false;
-      });
-      print('Error: ${response.statusCode}');
-    }
+    });
   }
 
   @override
