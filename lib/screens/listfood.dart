@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:healthcare/screens/color.dart';
-import '../food_list.dart'; // Import the FoodItem class
+import 'food_list.dart'; // Import the FoodItem class
 import 'info_screen.dart'; // Import the InfoScreen
 
 class FoodListScreen extends StatefulWidget {

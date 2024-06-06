@@ -4,7 +4,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:csv/csv.dart';
 import 'phonetic_algorithms.dart'; // Ensure this file exists and includes soundex and metaphone functions
 import 'food_list.dart'; // Import the FoodItem class
-import './screens/info_screen.dart'; // Import the InfoScreen
+import 'info_screen.dart'; // Import the InfoScreen
 
 class PhoneticSimilarityPage extends StatefulWidget {
   final String reference;

@@ -6,7 +6,7 @@ import 'popup_GI_GL.dart';
 import 'listfood.dart';
 import 'color.dart';
 import '../class/categories.dart';
-import '../test.dart'; // Import the PhoneticSimilarityPage class
+import 'search_results.dart'; // Import the PhoneticSimilarityPage class
 
 class FoodCategoryScreen extends StatefulWidget {
   @override

@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:healthcare/screens/chat.dart';
 import 'package:healthcare/screens/home_screen.dart';
 import 'package:healthcare/screens/search.dart';
 import 'package:healthcare/screens/settings_screen.dart';
@@ -13,6 +14,7 @@ class _NavBarRootsState extends State<NavBarRoots> {
   int _selectedIndex = 0;
   final _screens = [
     HomeScreen(),
+    ChatBot(),
     FoodCategoryScreen(),
     SettingScreen(),
   ];
@@ -42,6 +44,8 @@ class _NavBarRootsState extends State<NavBarRoots> {
           items: [
             BottomNavigationBarItem(
                 icon: Icon(Icons.home_filled), label: "Home"),
+            BottomNavigationBarItem(
+                icon: Icon(Icons.chat), label: "ChatBot"),
             BottomNavigationBarItem(
                 icon: Icon(Icons.search), label: "Search"),
             BottomNavigationBarItem(

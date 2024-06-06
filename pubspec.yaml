@@ -55,6 +55,8 @@ dependencies:
   socket_io_client: ^2.0.0
   postgrest: ^2.0.1
   csv: ^5.0.0
+  flutter_gemini: ^2.0.3
+  dash_chat_2: ^0.0.20
   
 
 dev_dependencies:

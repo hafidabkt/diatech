@@ -1,12 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:healthcare/screens/onboard.dart';
+import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:healthcare/screens/welcome_screen.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-
-import 'configure.dart';
+import 'package:healthcare/screens/consts.dart';
+import 'screens/configure.dart';
 
 Future main() async {
   await configureApp();
+  Gemini.init(
+  apiKey: Gemini_Api_key,
+  );
   runApp(MyApp());
 }
 
@@ -26,7 +30,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       scaffoldMessengerKey: scaffoldMessengerKey,
-      home: WelcomeScreen(),
+      home: OnboardScreen(),
     );
   }
 }
